@@ -1,0 +1,1294 @@
+Accepts Credit Cards,Hygiene_score,Noise Level,Parking,Source,Waiter Service,Wi-Fi,price_range,restaurant_name,restaurant_rating,restaurant_reviewcount
+No,A,Average,Garage,Japanese,No,No,Under $10,Sakura of Japan,4,116
+Yes,NA,Average,Garage,Korean,NA,No,$11-30,Baumgart?s Cafe,3,236
+Yes,C,Average,Garage,Korean,Yes,Free,$11-30,Set L.E.S,4,358
+Yes,NA,NA,Garage,American,Yes,No,$11-30,Sugar Momma,4.5,33
+Yes,NA,Average,Garage,French,Yes,Free,$11-30,La Parisienne,4.5,204
+Yes,A,Average,Garage,French,NA,Free,$31-60,Lafayette,3.5,803
+Yes,NA,Average,Garage,French,Yes,Free,$11-30,La Vie,3,101
+Yes,NA,Average,Garage,French,Yes,No,$11-30,Uptown Brasserie,2,232
+Yes,A,Quiet,Garage,French,NA,No,Above $61,Per Se,4.5,1477
+Yes,A,Average,Garage,French,NA,Free,$11-30,Tartinery,4,50
+Yes,NA,Average,Garage,Japanese,Yes,Free,$11-30,Teppan Bar & Grill,4,493
+Yes,A,Average,Garage,Chinese,NA,Free,$11-30,Nom Wah Tea Parlor,3.5,1703
+Yes,NA,Average,Garage,Chinese,No,No,Under $10,Zh Pan Asian,4.5,18
+Yes,C,Average,Garage,Chinese,NA,Free,$11-30,Evergreen On 38,3.5,211
+Yes,A,Average,Garage,Chinese,NA,No,$11-30,Franchia Vegan Cafe,4,814
+Yes,A,Average,Garage,Chinese,Yes,Free,$11-30,mokbar,3.5,516
+Yes,A,Average,Garage,Chinese,Yes,No,$11-30,Sachi Asian Bistro,4,177
+Yes,B,Average,Garage,Chinese,NA,No,$31-60,Peking Duck House,3.5,381
+Yes,A,Average,Garage,Chinese,Yes,Free,Above $61,DaDong New York,3,460
+No,A,Average,Garage,Chinese,Yes,No,$11-30,Tiny Shanghai,4.5,121
+Yes,A,Loud,Garage,Chinese,NA,No,$11-30,Jing Fong Restaurant,3.5,2075
+Yes,A,Average,Garage,Korean,Yes,No,$11-30,Barn Joo 35,4.5,1239
+Yes,A,Average,Garage,Korean,NA,NA,$31-60,Gaonnuri,3.5,708
+Yes,A,Average,Garage,Korean,Yes,Free,$11-30,The Maze,4,330
+Yes,A,Average,Garage,Korean,NA,No,$11-30,LuAnne?s Wild Ginger All-Asian Vegan,4,615
+Yes,A,NA,Garage,Korean,Yes,No,$11-30,Izakaya Juraku,4.5,40
+Yes,NA,Average,Garage,Korean,Yes,Free,$11-30,Silver Factory,4.5,120
+Yes,NA,Average,Garage,American,Yes,No,$11-30,Gelso & Grand,4,609
+Yes,A,Average,Garage,American,NA,Free,$11-30,Dark Horse,4,379
+Yes,NA,NA,Garage,American,Yes,Free,NA,Holy Ground,4,36
+Yes,A,Average,Garage,American,Yes,Free,$31-60,Virginiaâ¿?s,4,151
+Yes,A,Average,Garage,American,NA,Free,Above $61,Gotham Bar and Grill,4.5,1490
+Yes,A,Average,Garage,American,Yes,Free,$11-30,Tableside Italian Cook Shoppe,4.5,171
+Yes,A,Average,Garage,Indian,Yes,Free,$31-60,Junoon,3.5,1292
+Yes,A,Average,Garage,Indian,NA,No,$11-30,Bengal Tiger Indian Food,4.5,1361
+Yes,A,Quiet,Garage,Indian,Yes,No,$11-30,Rangoli Exquisite Indian Cuisine,4.5,360
+Yes,A,Average,Garage,Indian,NA,Free,$11-30,Moti Mahal Delux,4,413
+Yes,A,Average,Garage,Indian,NA,No,$11-30,Bombay Sandwich,4,359
+Yes,A,Average,Garage,Indian,Yes,No,$11-30,Kailash Parbat,3.5,247
+Yes,A,Average,Garage,French,Yes,No,$11-30,Excuse My French,4.5,225
+Yes,A,Average,Garage,French,NA,No,$11-30,Jadis,4,473
+Yes,A,Average,Garage,French,NA,No,$11-30,Vin et Fleurs,4,371
+Yes,A,Average,Garage,French,Yes,Free,$31-60,Le Coq Rico,4,287
+Yes,A,Average,Garage,French,Yes,Free,$11-30,La Tarte Flambee,4.5,315
+Yes,A,Average,Garage,French,Yes,Free,$31-60,Trattoria Italienne,4.5,83
+Yes,A,Average,Garage,French,NA,Free,$11-30,Almond,4,946
+Yes,A,Quiet,Garage,French,NA,Free,Above $61,Tocqueville Restaurant,4,334
+Yes,A,Average,Garage,French,NA,No,$31-60,Chez Josephine,4,417
+Yes,A,Quiet,Garage,French,NA,Free,$11-30,Paname Restaurant,4,85
+Yes,A,Average,Garage,French,Yes,Free,$11-30,PEQUE Vinos + Tapas Bar & Restaurant,4.5,187
+Yes,A,Average,Garage,French,NA,Free,Under $10,Lenox Coffee,4,278
+Yes,A,Average,Garage,French,NA,No,$11-30,Le Relais De Venise L?Entrecôôe,3.5,713
+Yes,A,Quiet,Garage,French,Yes,Free,$31-60,Le Rivage,3.5,365
+Yes,B,Average,Garage,French,NA,Free,$11-30,Cafe Un Deux Trois,3.5,522
+Yes,A,Average,Garage,French,Yes,Free,$11-30,La Bonne Soupe,3.5,661
+Yes,A,Average,Garage,French,NA,Free,$31-60,Benoit,3.5,411
+Yes,NA,Average,Garage,French,Yes,Free,$31-60,The Bar Room,4,447
+Yes,A,Quiet,Garage,French,NA,Free,$31-60,Triomphe,3.5,131
+Yes,A,Average,Garage,French,Yes,Free,$11-30,Cafe Du Soleil,3.5,342
+Yes,B,Average,Garage,French,Yes,Free,$11-30,Chez Lucienne,3.5,421
+Yes,A,Average,Garage,French,Yes,No,$11-30,Vino Levantino,4,210
+Yes,A,Average,Garage,French,Yes,No,Under $10,Earth Cafe,3.5,161
+Yes,A,Average,Garage,Italian,Yes,Free,$11-30,Tableside Italian Cook Shoppe,4.5,171
+Yes,A,Quiet,Garage,Mexico,No,Free,Under $10,Tac N Roll,4.5,169
+Yes,A,Average,Garage,Mexico,NA,No,$11-30,Tacombi - Nolita,3.5,1020
+Yes,A,Average,Garage,Mexico,NA,Free,$31-60,EmpellÃ³n - Taqueria,3.5,645
+Yes,A,Average,Garage,Mexico,NA,No,$11-30,El Toro Blanco,3.5,365
+Yes,NA,Average,Garage,Chinese,Yes,Free,$11-30,Soup Dumpling Plus,4.5,573
+Yes,NA,NA,Garage,Korean,Yes,No,$11-30,The Bari,4,122
+Yes,NA,Average,Garage,Korean,Yes,Free,$11-30,Naples Flatbread Kitchen & Bar on Denver Avenue,4,107
+Yes,A,Average,Garage,American,Yes,Free,$11-30,Tribecaâ¿?s Kitchen,4,361
+Yes,A,NA,Garage,American,Yes,Free,NA,A Summer Day CafÃ©,3.5,19
+Yes,NA,NA,Garage,American,Yes,No,$11-30,The Bari,4,120
+Yes,NA,NA,Garage,Indian,Yes,No,NA,GupShup,4.5,19
+Yes,A,Average,Garage,French,NA,No,$11-30,Tree Bistro,3.5,329
+Yes,NA,Average,Garage,Japanese,NA,No,$11-30,Komegashi Too,3.5,404
+Yes,NA,Average,Garage,Indian,NA,Free,$11-30,Amiya,3.5,279
+Yes,A,Average,NO,Japanese,Yes,Free,$11-30,Blue Ribbon Sushi Bar - Hudson Eats,3.5,124
+Yes,A,Average,NO,Japanese,Yes,No,$11-30,Kome Waza,4,147
+Yes,A,Quiet,NO,Japanese,No,Free,$11-30,Rabbit House,4.5,177
+Yes,NA,Average,NO,Japanese,Yes,No,$11-30,Menya Jiro- Fidi,4,118
+Yes,A,Quiet,NO,Japanese,Yes,No,$11-30,Kaede Japanese Restaurant,3.5,166
+Yes,A,Quiet,NO,Japanese,Yes,No,$31-60,Yakitori Tora,4,92
+Yes,A,Average,NO,Japanese,Yes,No,$31-60,Gohan-ya,4.5,40
+Yes,NA,Average,NO,Japanese,Yes,Free,Above $61,Nobu Downtown,3.5,236
+Yes,A,Quiet,NO,Japanese,Yes,No,Above $61,SHOJI at 69 Leonard St,4.5,31
+Yes,NA,NA,NO,Japanese,NA,NA,$11-30,Soho Hibachi & Sushi Bar,3.5,25
+Yes,NA,Average,NO,Japanese,Yes,No,$11-30,Hapa Japanese Cuisine,4.5,49
+Yes,NA,NA,NO,Japanese,Yes,NA,$11-30,Tokyo,3.5,8
+Yes,NA,Average,NO,Japanese,NA,Free,$11-30,Sushi One,3.5,25
+Yes,NA,Average,NO,Japanese,NA,No,$11-30,Tokyo Japanese Restaurant,4,57
+Yes,NA,NA,NO,Japanese,NA,No,NA,Aromas of Asia,3,6
+NA,NA,NA,NO,Japanese,NA,NA,NA,Kofu Sushi And Hibachi,5,2
+NA,NA,NA,NO,Japanese,NA,NA,NA,19 @ Juku - Omakase,4.5,24
+Yes,A,Average,NO,Japanese,Yes,Free,$11-30,Shinsen,4,110
+Yes,A,NA,NO,Japanese,NA,Free,$11-30,Tetsu,3.5,64
+Yes,A,Quiet,NO,Japanese,Yes,No,$11-30,Matsunichi,4,68
+Yes,NA,NA,NO,Japanese,NA,Free,$11-30,Omakasa,4,57
+Yes,NA,Average,NO,Chinese,Yes,Free,NA,Brooklyn Chop House,4,78
+Yes,NA,NA,NO,Chinese,NA,NA,NA,New York Canton Lounge,4,6
+No,A,NA,NO,Chinese,NA,No,Under $10,Kong Sihk Tong,4,40
+Yes,B,Loud,NO,Chinese,Yes,No,$31-60,Chinese Tuxedo,3.5,184
+Yes,NA,NA,NO,Chinese,NA,Free,NA,Zhen Wei Fang,4,79
+NA,NA,NA,NO,Chinese,NA,NA,NA,Xi?an Famous Foods,4.5,7
+No,A,Quiet,NO,Chinese,No,No,Under $10,Yummy City,4,33
+Yes,NA,NA,NO,Chinese,NA,Free,NA,Atlas Kitchen,4,28
+No,A,NA,NO,Chinese,NA,No,Under $10,Great Wall,4.5,12
+No,A,Quiet,NO,Chinese,NA,No,Under $10,China King,4,23
+No,A,Average,NO,Chinese,NA,No,Under $10,Wok Express,4,10
+No,A,Average,NO,Chinese,No,No,Under $10,New King Wok Restaurant,3.5,11
+Yes,A,NA,NO,Chinese,NA,NA,NA,2026 China King,4,1
+No,A,Average,NO,Chinese,NA,No,$11-30,Hong Kong,3.5,13
+Yes,NA,NA,NO,Chinese,Yes,Free,$11-30,River House Chinese Cuisine,4,58
+Yes,A,Average,NO,Chinese,NA,NA,Under $10,New Hong Kong Restaurant,4,5
+Yes,NA,NA,NO,Chinese,Yes,Free,NA,Hui Restaurant & Bar,4,37
+No,A,Quiet,NO,Chinese,NA,No,Under $10,Great Wok,3.5,12
+No,A,Average,NO,Chinese,NA,No,Under $10,Red Star Restaurant,3,17
+Yes,A,Loud,NO,Chinese,NA,Free,Under $10,Teng Dragon,3,16
+Yes,A,Average,NO,Chinese,NA,No,Under $10,Wing Wah Restaurant,3,12
+No,A,NA,NO,Chinese,NA,No,Under $10,Wing Gong I Kitchen,4,4
+Yes,A,Quiet,NO,Chinese,NA,No,Under $10,Empire Corner II,3,16
+Yes,NA,Average,NO,Chinese,No,Free,Under $10,Silky Kitchen,4.5,74
+Yes,A,NA,NO,Chinese,Yes,No,$31-60,Hunan Slurp,4.5,120
+Yes,A,NA,NO,Chinese,NA,Free,$11-30,Szechuan Mountain House,4,178
+Yes,B,NA,NO,Chinese,NA,NA,$11-30,Chong Qing Xiao Mian II,4,28
+Yes,A,Average,NO,Chinese,Yes,No,$11-30,Little Tong Noodle Shop,4,221
+Yes,B,Average,NO,Chinese,Yes,Free,$11-30,Carma East,4,201
+Yes,NA,NA,NO,Chinese,Yes,No,$11-30,886,4,162
+Yes,B,Average,NO,Chinese,Yes,Free,$11-30,Shu Han Ju II,3.5,63
+NA,NA,NA,NO,Chinese,NA,NA,NA,NuNoodle,4.5,4
+Yes,NA,NA,NO,Chinese,NA,No,NA,The Braised Shop,4,45
+Yes,A,Average,NO,Chinese,Yes,Free,$11-30,99 Favor Taste,4,345
+Yes,NA,NA,NO,Chinese,NA,NA,NA,Hui Fu Chinese Cuisine,3,6
+NA,NA,NA,NO,Chinese,NA,NA,NA,Tangra,3.5,26
+Yes,NA,NA,NO,Chinese,NA,NA,NA,Noodle King of NYC,4.5,51
+Yes,A,NA,NO,Chinese,No,No,Under $10,Bang Chengdu Street Kitchen,4,134
+Yes,A,Average,NO,Chinese,No,No,Under $10,Wok To Walk,4,200
+Yes,A,Average,NO,Chinese,NA,Free,$11-30,Tipsy Shanghai,4.5,103
+NA,NA,NA,NO,Chinese,NA,NA,NA,LaoMa Spicy,4,26
+No,NA,NA,NO,Chinese,NA,No,NA,Traditional Chinese Food Cart,4,7
+NA,A,NA,NO,Chinese,NA,No,Under $10,Magic Wok,4,9
+NA,NA,NA,NO,Chinese,NA,NA,NA,New Red Star,3.5,2
+NA,NA,Average,NO,Chinese,NA,NA,Under $10,Beijing Restaurant,2.5,3
+NA,A,NA,NO,Chinese,NA,NA,NA,New Cheung Chow Chinese Restaurant,3,3
+NA,B,NA,NO,Chinese,NA,NA,NA,Lucky Cornaga,1.5,2
+No,A,Loud,NO,Chinese,NA,No,$11-30,Six Happy,2.5,4
+Yes,B,NA,NO,Chinese,No,No,Under $10,Asia Express,3,57
+Yes,A,Quiet,NO,Chinese,No,Free,Under $10,Jimmy?s House,3.5,103
+Yes,A,Average,NO,Chinese,No,No,Under $10,China King,3,32
+Yes,A,Average,NO,Chinese,Yes,NA,$11-30,Aki King,3.5,14
+Yes,A,NA,NO,Chinese,NA,No,NA,Foody?s Dumpling,4,48
+NA,NA,NA,NO,Chinese,NA,NA,NA,spades,4,1
+Yes,A,NA,NO,Chinese,NA,NA,$11-30,5th Avenue Empire Cafe,3,8
+Yes,NA,NA,NO,Chinese,Yes,Free,NA,Hortus NYC,4.5,45
+Yes,NA,Average,NO,Chinese,NA,NA,Under $10,Hong Kong Chinese Restaurant,3.5,32
+NA,NA,NA,NO,Chinese,NA,NA,NA,Mr Bing,4,1
+Yes,NA,NA,NO,Chinese,NA,NA,$11-30,China Palace,2.5,2
+NA,NA,NA,NO,Chinese,NA,NA,$11-30,Hong Kong Street Cart At Broadway Bites,4,1
+Yes,B,Average,NO,Chinese,Yes,No,$11-30,Kame Ramen,4.5,301
+NA,NA,NA,NO,Chinese,NA,NA,NA,Kosher In Midtown,5,1
+NA,NA,NA,NO,Chinese,NA,NA,NA,Wild Ginger,5,1
+NA,NA,NA,NO,Chinese,NA,NA,NA,Tung Sing,2,2
+NA,NA,NA,NO,Chinese,NA,NA,NA,Mee Noodle Shop and Grill,4,1
+Yes,A,Average,NO,Chinese,NA,No,Under $10,New Kam Lai,3.5,23
+NA,NA,NA,NO,Chinese,NA,NA,NA,Grain House,4,35
+Yes,A,Quiet,NO,Chinese,NA,No,Under $10,Hunan Chen?s Kitchen,3,37
+Yes,A,Average,NO,Chinese,No,NA,Under $10,Empire Garden,2,29
+Yes,A,Loud,NO,Chinese,NA,NA,Under $10,New Kam Lai Chinese,2.5,53
+Yes,A,Loud,NO,Chinese,No,No,Under $10,Empire,3.5,22
+Yes,NA,NA,NO,Chinese,NA,NA,Above $61,Zheng?s River Restaurant,4,1
+NA,A,NA,NO,Chinese,NA,NA,NA,Benny?s Lung Sheng,2,4
+Yes,A,Average,NO,Chinese,NA,NA,Under $10,Peking Kitchen II,3.5,18
+No,A,Average,NO,Chinese,No,No,$11-30,Mei Chung Mei Restaurant,4,15
+Yes,A,Average,NO,Chinese,NA,NA,$11-30,China Wang,3.5,7
+No,A,NA,NO,Chinese,NA,No,Under $10,Panda Restaurant,3.5,10
+No,A,NA,NO,Chinese,NA,No,Under $10,Double Dragon Restaurant,4,15
+No,A,NA,NO,Chinese,NA,No,Under $10,Good Taste Chinese Restaurant,5,1
+Yes,A,NA,NO,Chinese,NA,No,Under $10,New Kam Sheng,3.5,19
+NA,NA,NA,NO,Chinese,NA,NA,Under $10,Hung Ying Chinese Take Out,3.5,3
+No,A,Quiet,NO,Chinese,NA,No,Under $10,Golden City Chinese Takeout,3.5,11
+No,A,NA,NO,Chinese,NA,NA,Under $10,Wai Kang Restaurant,3.5,12
+Yes,A,Average,NO,Chinese,No,NA,$11-30,No. 1 Restaurant,3.5,20
+NA,A,NA,NO,Chinese,NA,NA,Under $10,Great Wall Chinese Food,4.5,3
+NA,A,NA,NO,Chinese,NA,NA,Under $10,Happy Garden,4,3
+Yes,NA,NA,NO,Chinese,NA,NA,NA,Chinito Latino,3.5,17
+NA,A,NA,NO,Chinese,NA,NA,NA,Lin Home Chinese Restaurant,4,7
+Yes,A,Average,NO,Chinese,NA,No,Under $10,Empire 19,2.5,27
+No,A,Average,NO,Chinese,NA,No,Under $10,Foo Hing Kitchen,4,11
+Yes,A,Loud,NO,Chinese,NA,No,Under $10,New Luen Hing,2,20
+No,NA,Loud,NO,Chinese,NA,No,Under $10,Number One Restaurant,3,2
+No,A,Average,NO,Chinese,NA,No,Under $10,Pick Up Six,3,6
+Yes,NA,NA,NO,Chinese,NA,No,Under $10,China Sea,2.5,12
+No,A,NA,NO,Chinese,NA,No,NA,Yeung Hing Restuarant,4,1
+NA,A,NA,NO,Chinese,NA,NA,NA,Number 8 Chinese Restaurant,3,1
+No,A,NA,NO,Chinese,NA,No,Under $10,Lucky Star,3,3
+NA,A,Loud,NO,Chinese,NA,NA,NA,Pioneer Chinese Restaurant,3.5,3
+NA,A,Average,NO,Chinese,NA,No,Under $10,Hong Kong Kitchen,3.5,2
+NA,A,NA,NO,Chinese,NA,NA,NA,China Wok II,4,1
+NA,A,NA,NO,Chinese,NA,NA,NA,China City,1,1
+Yes,A,NA,NO,Chinese,NA,NA,$11-30,Golden Gate Restaurant,2,8
+NA,A,NA,NO,Chinese,NA,NA,Under $10,Hong Kong Restaurant,2.5,3
+No,NA,Average,NO,Chinese,NA,No,$11-30,New Yung Hong Chinese Restaurant,2.5,4
+Yes,A,NA,NO,Chinese,NA,NA,NA,Ten-Tan Chinese Restaurant,2,9
+Yes,A,NA,NO,Chinese,NA,NA,$11-30,Panda Express,2,20
+NA,B,NA,NO,Chinese,NA,NA,NA,New Peking Restaurant,2,1
+Yes,NA,Average,NO,Chinese,NA,No,Under $10,Yeung?s Number 1 Chinese Restaurant,2,9
+NA,NA,NA,NO,Chinese,NA,NA,NA,Noodle Culture,4.5,2
+NA,NA,NA,NO,Chinese,NA,NA,NA,Yang?s Chinese Food,2.5,2
+No,B,Average,NO,Chinese,NA,No,Under $10,Chelsea Golden Wok,3,48
+Yes,A,Average,NO,Chinese,NA,No,Under $10,Christopher?s Golden Woks,3.5,49
+Yes,A,Average,NO,Chinese,NA,NA,Under $10,New Dynasty Chinese Restaurant,2.5,19
+Yes,A,Average,NO,Chinese,No,No,Under $10,Panda Express,3,49
+Yes,NA,NA,NO,Chinese,NA,No,$11-30,Máì Project,3.5,124
+Yes,A,NA,NO,Chinese,NA,NA,$11-30,Little Tong Noodle Shop,4.5,27
+Yes,A,Average,NO,Chinese,NA,No,Under $10,Six Happiness,2.5,102
+No,A,Loud,NO,Chinese,No,No,Under $10,China 1 Kitchen,2.5,53
+Yes,A,Average,NO,Chinese,NA,No,Under $10,Friendly Restaurant,3.5,56
+Yes,NA,NA,NO,Chinese,NA,NA,NA,Corgi Delight,5,1
+Yes,A,Average,NO,Chinese,Yes,Free,$11-30,China Jade,3.5,98
+Yes,A,Average,NO,Chinese,Yes,No,$11-30,Dim Sum Palace,4,861
+NA,NA,NA,NO,Chinese,NA,NA,NA,Joe?s Steam Rice Roll,4.5,2
+No,A,Quiet,NO,Chinese,No,No,Under $10,Fay Da Bakery,4,202
+No,NA,NA,NO,Chinese,NA,No,Under $10,Rice Noodle Cart,4.5,54
+No,NA,Quiet,NO,Chinese,No,No,Above $61,Mr. Jones Supper Club,5,51
+No,NA,NA,NO,Chinese,NA,No,Under $10,Zongzi lady,4.5,18
+Yes,A,Average,NO,Chinese,NA,No,NA,Peppercorn Kitchen,4,67
+Yes,NA,Average,NO,Chinese,NA,No,Under $10,New China Red,2.5,30
+No,C,Average,NO,Chinese,Yes,No,Under $10,King?s Kitchen,4,200
+NA,B,NA,NO,Chinese,NA,NA,NA,First Wok,5,3
+No,A,Quiet,NO,Chinese,NA,No,Under $10,Food King,4,13
+NA,NA,NA,NO,Chinese,NA,NA,NA,New Arping Restaurant,5,1
+No,A,Average,NO,Chinese,NA,No,Under $10,Shui Mei Cafe,4.5,33
+Yes,NA,NA,NO,Chinese,NA,NA,NA,Kings Co Imperial,4,20
+Yes,NA,NA,NO,Chinese,Yes,Free,NA,Perfect Taste,5,9
+No,A,NA,NO,Chinese,NA,No,Under $10,Lee Chung Cafe,3.5,16
+Yes,A,Average,NO,Chinese,NA,No,Under $10,Shun Wei,3,21
+Yes,A,NA,NO,Chinese,NA,No,$11-30,MIGHTY Bowl,5,36
+Yes,A,Average,NO,Chinese,Yes,No,$11-30,Our Place China Chalet,3,54
+Yes,A,Quiet,NO,Chinese,Yes,No,$11-30,A-jiao,3.5,109
+Yes,B,Average,NO,Chinese,No,No,$11-30,Harvest Chinese & Thai Cuisine,3.5,72
+Yes,A,NA,NO,Chinese,NA,No,$11-30,64st Garden Cafe,4,20
+Yes,B,Average,NO,Chinese,NA,No,Under $10,New Wong Asian Food,2.5,58
+Yes,A,Quiet,NO,Chinese,Yes,No,Under $10,New Hua Yung Kitchen,4,22
+Yes,A,Average,NO,Chinese,NA,No,Under $10,Golden City Chinese Restaurant,4.5,7
+Yes,A,Quiet,NO,Chinese,NA,Free,Under $10,King Garden Restaurant,4,12
+Yes,A,Quiet,NO,Chinese,NA,NA,Under $10,Yang Garden Chinese Restaurant,3.5,16
+Yes,A,Loud,NO,Chinese,NA,No,Under $10,Splendid China,3.5,23
+No,A,NA,NO,Chinese,No,No,Under $10,King Dragon,4.5,6
+No,A,Average,NO,Chinese,NA,No,Under $10,Great Wall Chinese Food,3,35
+Yes,C,Average,NO,Chinese,NA,No,$11-30,La Dinastia II,3,54
+No,A,Quiet,NO,Chinese,NA,NA,Under $10,King House,3.5,12
+No,A,Average,NO,Chinese,NA,Free,$11-30,La Nueva Win Hing Restaurant,3.5,22
+No,A,Loud,NO,Chinese,NA,NA,Under $10,Oriental Chinese Restaruant,3.5,2
+No,A,NA,NO,Chinese,NA,NA,NA,Happy Garden,4.5,3
+Yes,A,NA,NO,Chinese,No,NA,Under $10,No.1 Chinese Restaurant,2.5,11
+NA,NA,Average,NO,Chinese,Yes,NA,NA,Dumpling Den,4,54
+No,A,Quiet,NO,Chinese,Yes,No,Under $10,Eastern Style Chinese,4,6
+Yes,A,NA,NO,Chinese,NA,NA,Under $10,China Sun,3.5,20
+No,A,Quiet,NO,Chinese,No,No,Under $10,New China Restaurant,3.5,10
+Yes,A,NA,NO,Chinese,NA,No,Under $10,Happy World Restaurant,3.5,8
+NA,B,NA,NO,Chinese,NA,No,NA,Hang Lung Chinese Restaurant,2.5,3
+Yes,A,NA,NO,Chinese,NA,NA,$11-30,Empire Chinese Restaurant,3.5,7
+No,A,Average,NO,Chinese,NA,No,Under $10,Silver Palace Chinese Restaurant,2.5,2
+Yes,A,NA,NO,Chinese,NA,No,Under $10,Jade House 301,2.5,15
+Yes,A,Quiet,NO,Chinese,NA,No,Under $10,Good Taste Restaurant,4,44
+No,NA,NA,NO,Chinese,NA,NA,Under $10,Yong Sheng,4,11
+NA,C,NA,NO,Chinese,NA,NA,NA,Fu Xing Chinese Restaurant,4.5,2
+No,A,Average,NO,Chinese,NA,No,Under $10,Meiya Kitchen,3.5,8
+No,C,NA,NO,Chinese,NA,No,Under $10,Good Taste Chinese Restaurant,3.5,5
+No,A,NA,NO,Chinese,No,No,$11-30,Lin?s Garden,3,5
+No,A,NA,NO,Chinese,NA,NA,NA,Xing Wang No. 1,5,1
+Yes,NA,NA,NO,Chinese,Yes,NA,$11-30,Szechun Express,4,29
+Yes,A,NA,NO,Korean,NA,Free,$11-30,Szechuan Mountain House,4,178
+NA,NA,NA,NO,Korean,NA,NA,NA,Dubu Maru,5,4
+Yes,NA,Quiet,NO,Korean,Yes,Free,$31-60,Yoon Haeundae Galbi,4.5,141
+Yes,B,Average,NO,Korean,Yes,No,$11-30,Osamil,4,280
+NA,NA,NA,NO,Korean,NA,NA,NA,Red Poke,4.5,11
+No,NA,NA,NO,Korean,NA,NA,Under $10,Galbi Q,4.5,32
+No,NA,NA,NO,Korean,NA,NA,NA,Yogi Korean Grill,4.5,7
+Yes,A,Average,NO,Korean,No,Free,$11-30,K-Bap,4,258
+Yes,A,Average,NO,Korean,No,No,Under $10,Delicacy,3.5,67
+Yes,A,Quiet,NO,Korean,No,No,$11-30,Mokja,4,104
+Yes,A,NA,NO,Korean,NA,Free,NA,ANA Ramen,4,38
+Yes,A,NA,NO,Korean,NA,No,Under $10,Sunny Restaurant,3.5,18
+Yes,NA,Average,NO,Korean,NA,No,Under $10,Food Truck Market - The Shoregasboard,4.5,11
+NA,NA,NA,NO,Korean,NA,NA,NA,Manna Korean Food,5,1
+NA,NA,NA,NO,Korean,NA,NA,NA,KALBI,4.5,3
+Yes,A,Average,NO,Korean,No,Free,Under $10,Harlem Taco & Bowl Company,4,69
+Yes,NA,NA,NO,Korean,NA,NA,NA,Boru Boru,4,32
+NA,NA,NA,NO,Korean,NA,NA,NA,New Dragon House Chinese Restaurant,2.5,3
+Yes,NA,NA,NO,Korean,No,NA,$11-30,Kosofresh,4.5,3
+Yes,NA,NA,NO,Korean,Yes,Free,NA,Okamisan Japanese Cuisine,3.5,2
+No,NA,NA,NO,Korean,NA,NA,Under $10,Happy Well Being House,4,2
+Yes,A,NA,NO,Korean,NA,No,NA,Bonchon - Brooklyn,3.5,55
+Yes,A,NA,NO,Korean,No,No,Under $10,Tiger Box,4,46
+Yes,A,NA,NO,Korean,NA,No,$11-30,MIGHTY Bowl,5,36
+Yes,B,Average,NO,Korean,No,No,$11-30,Korilla BBQ - Midtown East,3.5,59
+Yes,A,NA,NO,Korean,NA,No,$11-30,64st Garden Cafe,4,20
+Yes,NA,NA,NO,Korean,NA,NA,NA,Hwaban,4.5,47
+NA,NA,NA,NO,Korean,NA,NA,NA,Woo SoHo,4.5,21
+NA,NA,NA,NO,Korean,NA,NA,NA,Lauren?s Chicken,4,25
+No,A,Quiet,NO,Korean,No,No,$11-30,To Two Boonsik,4,114
+NA,A,NA,NO,Korean,NA,NA,NA,Azumma,5,1
+Yes,NA,NA,NO,Korean,NA,Free,$11-30,Kimbap Lab,5,25
+Yes,A,NA,NO,Korean,NA,NA,Above $61,Atomix,4.5,22
+Yes,NA,NA,NO,Korean,No,Free,NA,noodlelove,4,25
+Yes,NA,NA,NO,Korean,NA,NA,Under $10,Koritori,4,2
+Yes,A,NA,NO,Korean,Yes,No,$31-60,Hunan Slurp,4.5,120
+Yes,NA,Quiet,NO,Korean,NA,NA,$11-30,Korean Garden,3.5,31
+Yes,NA,NA,NO,Korean,No,Free,NA,Umami Fries,4,13
+Yes,NA,Average,NO,Korean,Yes,No,$11-30,Hapa Japanese Cuisine,4.5,49
+Yes,NA,Average,NO,Korean,NA,No,$11-30,Bamboo Thai Bistro,4,149
+Yes,NA,Quiet,NO,Korean,NA,No,Under $10,Hunan Chinese Restaurant,2,17
+Yes,NA,Loud,NO,Korean,No,No,$11-30,Pei Wei,3,57
+NA,NA,NA,NO,American,NA,NA,NA,Fishermans Landing,4,1
+Yes,NA,Loud,NO,American,NA,No,$11-30,Country Cottage Restaurant,4.5,20
+Yes,NA,Average,NO,American,NA,Free,$11-30,Bill and Ruthâ¿?s,4,9
+Yes,NA,Quiet,NO,American,NA,NA,Under $10,Fried Pie,4,15
+Yes,NA,Quiet,NO,American,NA,No,Under $10,Petes Drive In,4.5,6
+Yes,NA,Average,NO,American,NA,No,Under $10,Charlieâ¿?s Chicken and BBQ,3.5,16
+Yes,NA,NA,NO,American,NA,Free,Under $10,Hi-Way Cafe,4,15
+Yes,NA,Average,NO,American,NA,NA,Under $10,Riggâ¿?s & Company,5,4
+Yes,NA,Average,NO,American,NA,No,Under $10,Taco Tico,4,17
+Yes,NA,NA,NO,American,No,NA,NA,Sonic Drive-In,4.5,3
+Yes,NA,NA,NO,American,NA,NA,Under $10,Wood Shed,3.5,3
+Yes,NA,Average,NO,American,NA,No,$11-30,Chiliâ¿?s,3,14
+Yes,NA,NA,NO,American,NA,No,$11-30,Cotton Patch Cafe,3.5,19
+Yes,NA,Average,NO,American,NA,No,Under $10,Dotâ¿?s Cafe,4,10
+Yes,NA,Average,NO,American,Yes,Free,$11-30,Dennyâ¿?s,2.5,15
+Yes,NA,Average,NO,American,NA,No,$11-30,RibCrib,3.5,29
+NA,NA,NA,NO,American,NA,NA,Under $10,Dog Iron Saloon: Will Rogers Downs,3,3
+Yes,NA,Average,NO,American,Yes,No,$11-30,Goldies Patio Grill,3.5,15
+No,C,Loud,NO,American,NA,No,Under $10,East Broadway Restaurant,3.5,12
+NA,NA,NA,NO,American,NA,NA,NA,Happy Eats,3,17
+Yes,A,Average,NO,American,Yes,Free,$31-60,Antique Garage Tribeca,4.5,70
+NA,NA,NA,NO,American,NA,NA,NA,Museum of Chinese in America,4.5,134
+Yes,B,Loud,NO,American,Yes,No,$31-60,Chinese Tuxedo,3.5,185
+Yes,A,NA,NO,American,NA,NA,$11-30,Gem,4.5,24
+Yes,NA,Quiet,NO,American,Yes,Free,Above $61,Wolfgang Puck,3.5,66
+Yes,A,Average,NO,American,NA,No,$31-60,Marc Forgione,4,866
+Yes,A,Average,NO,American,Yes,NA,NA,Manhatta,4.5,104
+Yes,A,NA,NO,American,Yes,NA,NA,Monk Mcginnâ¿?s,4.5,33
+Yes,A,Quiet,NO,American,NA,Free,$11-30,View of the World Terrace Club,4,124
+Yes,A,NA,NO,American,NA,No,Under $10,Cafe Gusto,3,9
+NA,NA,NA,NO,American,NA,NA,NA,Open Air Cafe,5,1
+Yes,NA,NA,NO,American,NA,NA,$11-30,Lochmere Golf Y Country Club Restaurant,2,1
+Yes,NA,NA,NO,American,NA,NA,$11-30,applejacks diner,4.5,4
+Yes,A,Loud,NO,American,NA,No,Under $10,Subway,3.5,4
+NA,NA,NA,NO,American,NA,NA,NA,The Cardinal Club,5,1
+Yes,NA,NA,NO,American,Yes,No,$11-30,FERNS,4.5,48
+Yes,A,Average,NO,American,Yes,Free,$11-30,The Gray Mare,4.5,53
+Yes,A,NA,NO,American,Yes,Free,$11-30,Joe & Patâ¿?s Pizzeria,4,65
+Yes,B,Average,NO,American,Yes,Free,$11-30,Carma East,4,201
+Yes,A,NA,NO,Indian,NA,NA,NA,indi thai,4.5,31
+Yes,NA,Average,NO,Indian,Yes,NA,$11-30,Spice Wala Indian Cuisine,3.5,27
+Yes,NA,NA,NO,Indian,NA,No,NA,Frankie Goes To Bollywood,4,13
+NA,NA,NA,NO,Indian,NA,NA,NA,Tangra,3.5,26
+NA,NA,NA,NO,Indian,NA,NA,NA,Roti in a Box,4,1
+Yes,A,Quiet,NO,Indian,Yes,No,$11-30,Chawlas 2,4,75
+Yes,A,Average,NO,Indian,No,No,$11-30,Hampton Chutney,4,77
+Yes,A,Average,NO,Indian,No,Free,$11-30,The Kati Roll Company,4,71
+Yes,A,NA,NO,Indian,NA,No,$31-60,The Bombay Bread Bar,3.5,144
+Yes,A,Quiet,NO,Indian,Yes,Paid,$11-30,Kabab Bites,4,78
+NA,NA,NA,NO,Indian,NA,NA,NA,Dosa Royale,5,2
+Yes,A,Average,NO,Indian,NA,Free,$11-30,Ruchi,3.5,320
+No,NA,Average,NO,Indian,NA,No,Under $10,Biryani House Cart,4,151
+NA,NA,NA,NO,Indian,NA,NA,NA,The Kati Roll Company,3,15
+No,NA,Average,NO,Indian,No,No,Under $10,Indian King Biryani House,4,42
+No,NA,Average,NO,Indian,NA,No,Under $10,Bombay Biryany Cart,4.5,5
+Yes,NA,NA,NO,Indian,NA,NA,$11-30,Graffitti Earth,3.5,17
+No,NA,NA,NO,Indian,NA,No,NA,Mysttik Masaala,5,26
+Yes,NA,Quiet,NO,Indian,Yes,Free,$11-30,Tandoori Guys,4,54
+Yes,NA,NA,NO,Indian,NA,NA,NA,Tikka Kabab,4.5,38
+Yes,NA,Average,NO,Indian,NA,No,$11-30,Desi Wok,3.5,115
+Yes,NA,Average,NO,Indian,Yes,No,$11-30,Hard Rock Casino the Buffet,3,12
+Yes,A,Average,NO,Indian,NA,No,$11-30,Bawarchi Indian Cuisine,4,98
+Yes,A,Average,NO,Indian,No,NA,$11-30,Bawarchi Indian Cuisine,4.5,52
+Yes,A,Average,NO,Indian,Yes,No,Above $61,Indian Accent,4.5,425
+NA,NA,NA,NO,Indian,NA,NA,NA,Harlem Masala,5,2
+NA,NA,NA,NO,Indian,NA,NA,NA,Ajanta Express,5,1
+NA,NA,NA,NO,Indian,NA,NA,NA,Karma Indian Cuisine,5,1
+Yes,A,NA,NO,Indian,NA,Free,$11-30,Ashoka on 2nd Avenue,4.5,60
+Yes,NA,NA,NO,Indian,NA,Free,$11-30,Saar Indian Bistro,4.5,71
+NA,NA,NA,NO,Indian,NA,NA,Under $10,Punjab On Third,3.5,4
+Yes,A,Average,NO,Indian,Yes,Free,$11-30,Pondicheri,3.5,258
+Yes,NA,NA,NO,Indian,NA,NA,NA,Chicken Tikka Masala,5,1
+Yes,NA,NA,NO,Indian,NA,NA,NA,Joy of India,5,1
+NA,NA,NA,NO,Indian,NA,NA,NA,Cinamon,4,1
+Yes,NA,Average,NO,Indian,Yes,No,Under $10,Chawlas 2,4,70
+Yes,A,Loud,NO,Indian,NA,No,Under $10,Punjabi Dhaba Catering & Sweets,4.5,18
+NA,NA,Average,NO,Indian,NA,NA,NA,Baadshah Indian Restaurant,4.5,9
+Yes,NA,NA,NO,Indian,No,No,Under $10,Wok & Grill,4.5,5
+NA,NA,NA,NO,French,NA,NA,NA,Windmill,4.5,9
+Yes,NA,NA,NO,French,NA,NA,NA,Restaurant Ukiyo,4.5,33
+Yes,A,NA,NO,French,NA,NA,NA,La cafette,5,29
+Yes,NA,Quiet,NO,French,Yes,No,Above $61,L?Appart,5,78
+Yes,A,Average,NO,French,Yes,Free,$11-30,Le District,3.5,453
+Yes,B,Average,NO,French,Yes,Free,$31-60,Beaubourg,3,237
+Yes,A,Average,NO,French,Yes,Free,$11-30,Tartinery Hudson Eats,4,359
+Yes,NA,NA,NO,French,Yes,Free,$11-30,la côôe,4,72
+Yes,A,NA,NO,French,NA,NA,NA,Bar  Frites,4,8
+Yes,A,NA,NO,French,NA,Free,$11-30,Bar a Vin,3,21
+Yes,A,Average,NO,French,Yes,Free,$11-30,BoCaphe,4,967
+Yes,A,Average,NO,French,NA,No,$31-60,Bouley Test Kitchen,4.5,23
+Yes,A,Average,NO,French,No,Free,Under $10,La Maison du Croque Monsieur,4,304
+Yes,A,NA,NO,French,NA,No,$11-30,Caviar House & Prunier,3.5,30
+Yes,NA,Loud,NO,French,NA,No,$11-30,Le Grand Comptoir,2.5,42
+Yes,A,Loud,NO,French,NA,Paid,$11-30,Au Bon Pain,1.5,4
+Yes,NA,NA,NO,French,NA,No,NA,Chateau 49,4.5,27
+NA,NA,NA,NO,French,NA,NA,NA,Freeman?s,4,1
+Yes,A,NA,NO,French,NA,NA,$11-30,Maman and Mimi Restaurant,3.5,27
+Yes,NA,NA,NO,French,NA,Free,NA,Gina Marie?s Trattoria,4.5,6
+Yes,A,NA,NO,French,Yes,Free,$11-30,Serengeti Kitchen Harlem,4.5,24
+NA,NA,NA,NO,French,NA,NA,NA,Ruby?s Vintage Harlem,5,2
+Yes,NA,Quiet,NO,French,Yes,Free,$11-30,Giovanni?s Bicycle Club,4,86
+Yes,NA,Average,NO,French,Yes,No,$11-30,Ellington in the Park,3.5,78
+Yes,A,Quiet,NO,French,Yes,No,Above $61,Le Bernardin,4.5,2286
+Yes,NA,NA,NO,French,NA,No,$11-30,Le Prive,4.5,49
+NA,NA,NA,NO,French,NA,NA,NA,Barnea Bistro,5,5
+Yes,A,Average,NO,French,Yes,Free,Above $61,Gabriel Kreuther,4.5,315
+Yes,A,Average,NO,French,Yes,No,$11-30,Le Pif,4,257
+Yes,A,Average,NO,French,Yes,Free,$31-60,Mont Blanc 52,4.5,60
+NA,NA,NA,NO,French,NA,NA,NA,Eight And A Half Restaurant,4.5,2
+Yes,C,NA,NO,French,Yes,No,$31-60,Amelie,4.5,91
+Yes,B,Average,NO,French,Yes,Free,$11-30,Jean Claude 2,4,115
+Yes,A,Average,NO,French,Yes,No,$31-60,Little Frog Bistro & Bar,4,154
+Yes,A,NA,NO,French,NA,NA,NA,Pitchounette81,4.5,59
+Yes,A,NA,NO,French,NA,NA,NA,Bistrot Leo,4,18
+Yes,NA,Average,NO,French,Yes,Free,$11-30,Laduréå SoHo Le Restaurant,2.5,23
+Yes,NA,NA,NO,Italian,Yes,Free,NA,DIA,5,7
+Yes,A,Average,NO,Italian,NA,No,$31-60,Lâ¿?Artusi,4.5,1593
+NA,NA,NA,NO,Italian,NA,NA,NA,Bricia,4.5,6
+No,NA,NA,NO,Italian,Yes,No,NA,Biga Pizza Italiana Contemporanea,5,3
+Yes,NA,NA,NO,Mexico,NA,NA,NA,Borrachito,4.5,15
+Yes,NA,NA,NO,Mexico,NA,No,NA,De Mole,5,44
+NA,A,NA,NO,Mexico,NA,NA,NA,Holi Mole,4.5,22
+Yes,NA,NA,NO,Mexico,NA,No,$11-30,Oxomoco,4,92
+Yes,A,Average,NO,Mexico,Yes,No,$11-30,Atla,3.5,197
+No,NA,Quiet,NO,Mexico,NA,No,Under $10,Taco Bite Food Truck,4,39
+Yes,NA,Average,NO,Mexico,NA,No,$11-30,Jicama NYC,2.5,13
+Yes,A,Average,NO,Mexico,NA,No,Under $10,El Toro Mexican Grill,3,98
+Yes,A,Average,NO,Japanese,No,Free,$11-30,Wasabi Sushi & Bento,4,107
+Yes,A,Average,NO,Japanese,Yes,No,$11-30,Kuu Ramen,3.5,510
+Yes,NA,Average,Private Lot,Japanese,Yes,No,$11-30,Akira Sushi Bar,4.5,79
+Yes,NA,Average,Private Lot,Japanese,Yes,NA,$11-30,Sakura,4,34
+Yes,NA,Quiet,Private Lot,Japanese,NA,No,$11-30,Memories Of Japan,4,68
+Yes,NA,Average,Private Lot,Japanese,NA,No,$11-30,Tokyo Garden,4,55
+Yes,NA,Quiet,Private Lot,Japanese,Yes,No,$11-30,"Sura,Korean and Japanese Cuisine",4.5,74
+Yes,NA,Average,Private Lot,Japanese,Yes,No,$11-30,Sushi Hana,4.5,73
+Yes,NA,Quiet,Private Lot,Japanese,NA,No,$11-30,Sushi House,4,58
+Yes,NA,Average,Private Lot,Japanese,Yes,Free,$11-30,Roka,4,129
+Yes,NA,NA,Private Lot,Japanese,Yes,Free,$11-30,Caribbean Sushi,4.5,36
+Yes,NA,Loud,Private Lot,Japanese,NA,No,$11-30,Osaka,3,98
+Yes,NA,Average,Private Lot,Japanese,Yes,Free,$11-30,Yutaka Grill & Sushi Buffet,3.5,94
+Yes,NA,Average,Private Lot,Japanese,NA,No,$11-30,Sushi Hana,4.5,98
+Yes,NA,Average,Private Lot,Japanese,Yes,Free,$11-30,Sake 2 Me Sushi,4.5,125
+Yes,NA,Average,Private Lot,Japanese,Yes,Free,$11-30,Yokozuna Yale,3.5,113
+Yes,NA,Average,Private Lot,Japanese,Yes,No,$11-30,Fuji Sushi Bar,3.5,71
+Yes,NA,Average,Private Lot,Japanese,NA,Free,$11-30,The Tropical,4.5,162
+Yes,NA,Quiet,Private Lot,Japanese,NA,No,$11-30,Sobahn,3.5,79
+Yes,NA,Average,Private Lot,Japanese,Yes,No,$11-30,Keo,4,93
+Yes,NA,Average,Private Lot,Chinese,Yes,Free,$11-30,Shanghai Restaurant,4,258
+Yes,NA,Average,Private Lot,Chinese,Yes,Free,$11-30,Chan?s Dragon Inn,4,113
+Yes,NA,Average,Private Lot,Korean,Yes,No,$11-30,SGD Dubu So Gong Dong Tofu & BBQ,4,122
+Yes,NA,Loud,Private Lot,Korean,No,No,$11-30,Mitsuwa Marketplace,4.5,1470
+No,NA,Loud,Private Lot,Korean,NA,No,$11-30,Santouka Ramen,4,633
+Yes,NA,Average,Private Lot,Korean,Yes,Free,$11-30,Blackbeard Ramen,4.5,424
+No,NA,Average,Private Lot,Korean,NA,No,Under $10,Omusubi Gonbei,4,87
+No,NA,Loud,Private Lot,Korean,NA,No,Under $10,Oishinbo,3.5,71
+Yes,NA,Quiet,Private Lot,Korean,Yes,No,$11-30,Gogi Gui Korean Grill,4.5,80
+Yes,NA,Quiet,Private Lot,Korean,NA,No,$11-30,Sobahn,3.5,79
+Yes,NA,Quiet,Private Lot,Korean,Yes,No,$11-30,"Sura,Korean and Japanese Cuisine",4.5,74
+Yes,NA,Quiet,Private Lot,Korean,NA,No,Under $10,Chopsticks,4,66
+Yes,NA,Quiet,Private Lot,Korean,Yes,Free,Under $10,All About Cha Stylish Coffee And Tea,4,54
+Yes,NA,Average,Private Lot,Korean,Yes,Free,$11-30,Roka,4,129
+Yes,NA,Average,Private Lot,Korean,Yes,No,$11-30,Keo,4,93
+Yes,NA,Average,Private Lot,Korean,Yes,No,Under $10,Pho Nhi Vietnamese Noodle House,4,99
+Yes,NA,Quiet,Private Lot,Korean,Yes,No,$11-30,GiGi?s Kitchen,4,79
+Yes,NA,Average,Private Lot,Korean,Yes,Free,$11-30,Kirin Asian Cuisine & Sushi,4,96
+Yes,NA,Average,Private Lot,Korean,NA,Free,$11-30,KEO Restaurant,4,104
+Yes,NA,Average,Private Lot,Korean,NA,No,$11-30,Sushi Train,3,102
+Yes,NA,Average,Private Lot,Korean,Yes,Free,$11-30,Sake 2 Me Sushi,4.5,125
+Yes,NA,Quiet,Private Lot,Korean,NA,No,Under $10,Pei Wei,3.5,49
+Yes,NA,Average,Private Lot,Korean,Yes,Free,$11-30,Mandarin Taste,4,134
+Yes,NA,Average,Private Lot,Korean,NA,No,Under $10,China Cafe,3.5,23
+Yes,NA,Average,Private Lot,Korean,NA,No,$11-30,P.F. Chang?s,3.5,97
+Yes,NA,Average,Private Lot,American,NA,Free,$11-30,Mid-American Grille,4,36
+Yes,NA,Average,Private Lot,American,Yes,No,Under $10,Clantonâ¿?s Cafe,4,101
+Yes,NA,Average,Private Lot,American,Yes,No,$31-60,The Artichoke Restaurant & Bar,4.5,31
+Yes,NA,Average,Private Lot,American,NA,No,$11-30,Thomas Restaurant,3.5,20
+Yes,NA,Average,Private Lot,American,NA,Free,$11-30,Hammett House Restaurant,3.5,51
+Yes,NA,NA,Private Lot,American,NA,No,$11-30,Cracker Barrel Old Country Store,4,27
+Yes,NA,Average,Private Lot,American,Yes,Free,$11-30,Bricktown Brewery,4,109
+Yes,NA,Loud,Private Lot,American,Yes,No,$11-30,El Royal Restaurant & Club,3.5,4
+No,NA,Average,Private Lot,American,NA,No,Under $10,Hugoâ¿?s Family Restaurant,4,56
+Yes,NA,Average,Private Lot,Indian,Yes,No,$11-30,Cumin Flavor Of India,4,112
+Yes,NA,Average,Private Lot,Indian,Yes,No,$11-30,Himalayas Aroma of India,4,69
+Yes,NA,Quiet,Private Lot,Indian,Yes,No,$11-30,Eritrean & Ethiopian Cafe,4.5,78
+Yes,NA,Average,Private Lot,French,NA,No,$11-30,Bistro La Source,3,270
+Yes,A,Average,Street,Japanese,No,No,$11-30,Takahachi Bakery,4,779
+Yes,NA,Average,Street,Japanese,Yes,No,$11-30,Honshu,4,227
+Yes,A,Average,Street,Japanese,No,Free,$11-30,Chikarashi,4,454
+Yes,C,Average,Street,Japanese,Yes,No,$31-60,DOMODOMO,4,700
+Yes,A,Quiet,Street,Japanese,NA,No,Above $61,Hirohisa,4.5,131
+Yes,A,Average,Street,Japanese,NA,No,Under $10,Go! Go! Curry!,4,329
+Yes,A,Average,Street,Japanese,NA,No,$11-30,Fukurou,4,285
+Yes,B,Quiet,Street,Japanese,Yes,No,$31-60,Bohemian Restaurant,4.5,689
+Yes,A,Average,Street,Japanese,Yes,Free,$11-30,Zutto Japanese American Pub,4,831
+No,B,Average,Street,Japanese,Yes,No,$11-30,Cocoron,4,577
+Yes,NA,Quiet,Street,Japanese,Yes,Free,$31-60,Shigure,4,87
+No,A,Average,Street,Japanese,Yes,Free,$11-30,Cocoron,4,928
+Yes,A,Average,Street,Japanese,NA,No,$31-60,Takahachi Tribeca Restaurant,3.5,212
+Yes,NA,Average,Street,Japanese,Yes,No,$11-30,Raku,4.5,125
+Yes,NA,Average,Street,Japanese,NA,No,$11-30,Sunrise Mart,4,261
+Yes,NA,Average,Street,Japanese,NA,Free,$11-30,Yokozuna,3.5,271
+Yes,NA,Average,Street,Japanese,No,Free,$11-30,Roppongi,4,77
+Yes,A,Average,Street,Japanese,Yes,Free,$31-60,Juku,4,77
+Yes,NA,NA,Street,Japanese,Yes,No,Above $61,Shabushabu Macoron,4.5,44
+Yes,A,Average,Street,Japanese,No,Free,$11-30,Ramen Lab,4,292
+Yes,A,Average,Street,Japanese,NA,No,$11-30,Ajisen Ramen,3.5,332
+Yes,A,Average,Street,Japanese,NA,No,$31-60,Suteishi,4,427
+Yes,A,Average,Street,Japanese,NA,Free,$11-30,Bassanova Ramen,3.5,723
+Yes,A,Average,Street,Japanese,Yes,No,$11-30,Benemon,4.5,434
+No,A,Average,Street,Japanese,Yes,No,$11-30,Raku,4.5,777
+Yes,A,Average,Street,Japanese,Yes,No,$11-30,Izakaya,4,231
+Yes,A,Loud,Street,Japanese,Yes,No,$11-30,Yakitori Taisho,3.5,1522
+No,B,Loud,Street,Chinese,Yes,No,$11-30,Joe?s Shanghai,4,5508
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Shanghai 21,4,1437
+Yes,A,Average,Street,Chinese,NA,No,Under $10,Noodle Village,4,877
+Yes,B,Average,Street,Chinese,NA,No,$11-30,Hop Lee Restaurant,4,256
+No,A,Average,Street,Chinese,Yes,No,$11-30,Hop Kee,3.5,741
+No,B,Average,Street,Chinese,Yes,No,Under $10,Tasty Hand-Pulled Noodles,4,1450
+No,B,Average,Street,Chinese,Yes,No,$11-30,Wo Hop,3.5,1259
+Yes,C,Average,Street,Chinese,Yes,No,$11-30,Buddha Bodai Kosher Vegetarian Restaurant,4,881
+No,A,Average,Street,Chinese,NA,No,Under $10,Shu Jiao Fu Zhou Cuisine Restaurant,4.5,580
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,21 Shanghai House,4,395
+No,A,Average,Street,Chinese,No,No,Under $10,Wah Fung No 1 Fast Food,4.5,1070
+Yes,NA,Average,Street,Chinese,NA,Free,$11-30,Fishmarket Restaurant,4.5,464
+Yes,A,Average,Street,Chinese,Yes,No,$31-60,Peking Duck House,3.5,772
+No,A,Average,Street,Chinese,Yes,No,Under $10,88 Lan Zhou Handmade Noodles,4,1567
+No,A,Average,Street,Chinese,Yes,No,Under $10,Taiwan Pork Chop House,4,349
+Yes,NA,NA,Street,Chinese,No,Free,NA,Old Xi?an,4,45
+Yes,A,Loud,Street,Chinese,NA,Free,$11-30,Ping?s Seafood,3.5,605
+Yes,A,Average,Street,Chinese,No,No,Under $10,Taiwan Bear House,4,268
+No,B,Average,Street,Chinese,Yes,Free,$11-30,Wok Wok,4,632
+Yes,NA,Average,Street,Chinese,Yes,No,Under $10,Asian Spicy Curry Pop-up,4.5,123
+No,A,Average,Street,Chinese,Yes,No,$11-30,Nyonya,4,1899
+No,NA,Average,Street,Chinese,No,No,Under $10,Sun Hing Lung Co,4.5,152
+Yes,A,Average,Street,Chinese,NA,Free,$11-30,Chatham Seafood Restaurant,3.5,182
+No,A,Average,Street,Chinese,NA,No,$11-30,Shanghai Asian Cuisine,4,435
+No,A,Average,Street,Chinese,Yes,No,Under $10,Cha Chan Tang,3,936
+No,A,Loud,Street,Chinese,Yes,No,Under $10,Big Wong,3.5,1329
+No,A,Average,Street,Chinese,Yes,No,Under $10,WK Restaurant,4,53
+No,A,Average,Street,Chinese,Yes,No,Under $10,Spicy Village,4,550
+Yes,B,Average,Street,Chinese,Yes,No,$11-30,Famous Sichuan,3.5,342
+No,A,Loud,Street,Chinese,Yes,No,Under $10,Hop Shing Restaurant,3.5,481
+No,A,Average,Street,Chinese,NA,No,Under $10,Mee Sum Cafe,3.5,26
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Szechuan Garden,4,219
+Yes,NA,Quiet,Street,Chinese,NA,No,Under $10,MoonHouse,3.5,88
+Yes,NA,NA,Street,Chinese,Yes,Free,NA,yu kitchen,4,21
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Happy Hot Hunan,3.5,129
+No,A,Quiet,Street,Chinese,NA,No,$11-30,La Preciosa China Restaurant,3,23
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Han Dynasty,4,482
+Yes,A,NA,Street,Chinese,No,No,Under $10,Szechuan Garden Kitchen,4,16
+No,A,NA,Street,Chinese,NA,Free,NA,Hung Chow Restaurant,3,4
+Yes,NA,Average,Street,Chinese,No,No,Under $10,Spice Noodle,3.5,58
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,La Salle Dumpling Room,4,188
+No,A,Average,Street,Chinese,NA,No,Under $10,Fu Wing Chinese Restaurant,3,13
+Yes,A,Average,Street,Chinese,No,No,Under $10,Xi?an Famous Foods,4,335
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Han Dynasty,4,1067
+Yes,A,Average,Street,Chinese,No,Free,$11-30,Dian Kitchen,4.5,83
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Clay Pot NYC,4.5,175
+Yes,NA,NA,Street,Chinese,NA,Free,NA,Uluh,5,11
+Yes,A,Average,Street,Chinese,No,No,Under $10,Xi?an Famous Foods,4,1532
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,MáÌ Project,4,473
+Yes,A,NA,Street,Chinese,Yes,Free,$11-30,Dun Huang,4,68
+Yes,NA,NA,Street,Chinese,Yes,Free,NA,Gala BBQ,4,8
+Yes,A,Quiet,Street,Chinese,No,No,NA,The Dumpling Shop,4.5,52
+Yes,A,Average,Street,Chinese,Yes,No,$31-60,Tuome,4.5,358
+Yes,C,Average,Street,Chinese,Yes,Free,$11-30,Hunan Bistro,3.5,190
+Yes,B,Average,Street,Chinese,Yes,Free,$11-30,The Bao,3.5,976
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,The Tang,4,281
+Yes,A,Quiet,Street,Chinese,Yes,Free,$11-30,Ho Foods,4,154
+Yes,B,Average,Street,Chinese,Yes,Free,$11-30,Le Sia,4,154
+Yes,A,Quiet,Street,Chinese,No,No,$11-30,Just for Fen,4.5,93
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Tim Ho Wan,3.5,1361
+Yes,A,Average,Street,Chinese,NA,Free,$11-30,Hot Kitchen Skewer Hotpot & BBQ,3.5,405
+Yes,A,Average,Street,Chinese,NA,No,Under $10,New Double Dragon,4,60
+Yes,A,Quiet,Street,Chinese,NA,No,Under $10,A & C Kitchen,3.5,28
+Yes,A,Quiet,Street,Chinese,Yes,No,$11-30,Mee Noodle Shop & Grill,3,113
+Yes,A,Average,Street,Chinese,NA,No,Under $10,BaoHaus,3.5,1833
+Yes,NA,NA,Street,Chinese,Yes,No,$11-30,SHIMIAODAO Yunnan Rice Noodle,4,53
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Chow House,4.5,157
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Chop Shop II,3.5,197
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Lotus Blue,4,66
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Home?s Kitchen Chinese Restaurant,3.5,172
+Yes,B,Average,Street,Chinese,Yes,Free,$11-30,Auntie Guan?s Kitchen 108,4,308
+Yes,B,Quiet,Street,Chinese,No,No,Under $10,Burp Bowl Cafe,4,173
+Yes,NA,Average,Street,Chinese,Yes,No,NA,Chengdu House,3.5,20
+Yes,A,Average,Street,Chinese,NA,No,Under $10,Taste Good,3.5,85
+Yes,NA,Average,Street,Chinese,Yes,Free,$11-30,The Chinese Club NYC - Desiwala Chinese,3.5,78
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Caf China,4,1250
+Yes,A,Average,Street,Chinese,Yes,Free,Under $10,Bao Bao Cafe,4,395
+Yes,A,Loud,Street,Chinese,Yes,Free,$31-60,Jue Lan Club,3,256
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Excellent Dumpling House,4,443
+Yes,NA,NA,Street,Chinese,Yes,No,NA,Dun Huang -  Grand Central,4,8
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Zest Szechuan,3.5,428
+Yes,A,Average,Street,Chinese,No,No,Under $10,Xi?an Famous Foods,4,606
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,China Xiang,4,339
+Yes,A,Average,Street,Chinese,Yes,No,$31-60,Atoboy,4.5,243
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Spice Symphony,4,521
+Yes,A,NA,Street,Chinese,No,No,Under $10,Auntie Guan?s Kitchen,3.5,122
+Yes,A,Quiet,Street,Chinese,Yes,Free,$11-30,Shu Han Ju,3.5,136
+Yes,A,Average,Street,Chinese,Yes,Free,$31-60,Buddakan,4,3624
+Yes,A,Average,Street,Chinese,No,No,Under $10,Di Di Dumpling,3.5,152
+Yes,A,Average,Street,Chinese,No,No,Under $10,Xi?an Famous Foods,4,1430
+Yes,C,Average,Street,Chinese,NA,Free,$11-30,La Vie en Szechuan,3.5,399
+Yes,A,Average,Street,Chinese,No,No,$11-30,Xi?an Famous Foods,4,148
+Yes,B,Average,Street,Chinese,NA,No,$11-30,Uncle Ted?s Modern Chinese Cuisine,4,405
+Yes,NA,Average,Street,Chinese,No,Free,$11-30,Junzi Kitchen,4.5,89
+Yes,A,Average,Street,Chinese,NA,Free,$11-30,Niu Noodle House,4,617
+Yes,A,Average,Street,Chinese,No,Free,Under $10,The Rice Noodle,4,116
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Hao Noodle and Tea By Madam Zhu?s Kitchen,4,478
+Yes,A,Average,Street,Chinese,Yes,No,$31-60,Decoy,4.5,345
+Yes,A,Quiet,Street,Chinese,Yes,No,$11-30,Great Sichuan,3,178
+Yes,NA,Quiet,Street,Chinese,Yes,No,$31-60,Dynasty Dim Sum,4,63
+Yes,A,Average,Street,Chinese,No,No,Under $10,Xi?an Famous Foods,4,607
+Yes,C,Average,Street,Chinese,Yes,Free,$11-30,Little Alley,4,240
+Yes,A,Average,Street,Chinese,NA,Free,$11-30,Hunan Manor,3.5,268
+Yes,NA,Average,Street,Chinese,Yes,No,NA,Mi Noodle Bar,4.5,75
+Yes,A,Average,Street,Chinese,No,No,$11-30,Yaso Tangbao,4,195
+Yes,A,NA,Street,Chinese,Yes,Free,$11-30,Flame,4,72
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Shanghai Mong,3,460
+Yes,C,Average,Street,Chinese,NA,No,$11-30,Dong Chun Hong,3.5,283
+Yes,A,Average,Street,Chinese,NA,Free,$11-30,Asura Asian Bistro,3.5,295
+Yes,NA,Average,Street,Chinese,Yes,No,$11-30,Lan Sheng Restaurant,3.5,84
+Yes,A,Loud,Street,Chinese,No,No,$11-30,Jian Bing Man,3,118
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Abiko Curry,4,506
+Yes,B,Average,Street,Chinese,NA,No,$11-30,Hyo Dong Gak,3.5,379
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Main Noodle House,3.5,368
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,New Wonjo Restaurant,3.5,1177
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Bonchon - NYC 5th Ave,3.5,958
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,ICHIRAN Midtown,3.5,265
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Norikoh,4,432
+Yes,A,Quiet,Street,Chinese,NA,No,$11-30,Chef 28,3,111
+Yes,A,Loud,Street,Chinese,NA,Free,$11-30,Japas 38,3.5,261
+Yes,NA,Loud,Street,Chinese,NA,Free,Under $10,SeoulFood Truck,3,83
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,wagamama,3.5,595
+Yes,B,Quiet,Street,Chinese,NA,NA,Under $10,Hong Kong Noodle 2,2.5,37
+Yes,B,Average,Street,Chinese,NA,No,$11-30,Eden Wok,2.5,105
+Yes,B,Average,Street,Chinese,Yes,Free,$11-30,Ollie?s Noodle Shop & Grille,3,139
+Yes,B,Average,Street,Chinese,NA,No,$11-30,Flor de Mayo,4,504
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Red Hot Hot Pot,4,50
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Uncle Luoyang,3.5,107
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Han Dynasty,4,481
+Yes,A,Average,Street,Chinese,No,No,$11-30,108 Food Dried Hot Pot,3.5,109
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Malaysia Grill,4,260
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Pearls,3,138
+Yes,A,Average,Street,Chinese,No,Free,$11-30,Junzi Kitchen,4,131
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Thai Market,4,904
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Flor De Mayo,4,1091
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Hunan Park,3,79
+Yes,A,Quiet,Street,Chinese,Yes,No,$11-30,Noodle Fun,4,128
+Yes,A,Average,Street,Chinese,NA,No,$11-30,La Nueva Victoria,3,81
+No,NA,Loud,Street,Chinese,NA,No,Under $10,Uncle Luoyang,3.5,30
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Wok 88,3.5,235
+Yes,A,Quiet,Street,Chinese,NA,No,$11-30,Ozen,3,173
+Yes,A,NA,Street,Chinese,Yes,Free,$11-30,Dun Huang,4,37
+Yes,A,Average,Street,Chinese,Yes,No,$31-60,RedFarm,3.5,544
+Yes,A,Average,Street,Chinese,NA,NA,Under $10,Little China City,4.5,20
+Yes,A,Average,Street,Chinese,NA,No,Under $10,Lotus Express,4,50
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Kai Fan Asian Cuisine,3.5,32
+Yes,A,Quiet,Street,Chinese,Yes,Free,$11-30,Moon Star Grill,4,82
+Yes,A,Quiet,Street,Chinese,NA,No,$11-30,Amy?s Restaurant,3.5,99
+Yes,A,Quiet,Street,Chinese,NA,No,Under $10,Hang Lee Chinese,4,24
+No,A,Average,Street,Chinese,NA,No,Under $10,Panda House,3,23
+No,A,Quiet,Street,Chinese,NA,No,Under $10,Mei Mei Restaurant,3.5,43
+Yes,A,Average,Street,Chinese,NA,No,Under $10,U Like Chinese Take Out,3,67
+Yes,A,Loud,Street,Chinese,No,Free,$11-30,Very Fresh Noodles,4,656
+Yes,A,NA,Street,Chinese,NA,No,$11-30,Hao Noodle Chelsea,4,88
+Yes,B,Average,Street,Chinese,NA,No,$11-30,Grand Sichuan Eastern,3,102
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Grand Sichuan,3.5,413
+No,B,Average,Street,Chinese,Yes,No,$11-30,Shorty Tang Noodle Shop,3.5,167
+Yes,C,Average,Street,Chinese,No,Free,$11-30,Som Bo,4,127
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Calle Dao - Chelsea,4.5,364
+Yes,B,Average,Street,Chinese,NA,No,$11-30,Co Ba,3.5,224
+Yes,B,NA,Street,Chinese,Yes,Free,$11-30,New Legend,3,29
+Yes,NA,Average,Street,Chinese,NA,No,$31-60,RedFarm,3.5,613
+Yes,NA,Average,Street,Chinese,Yes,No,$11-30,Sammy?s Noodle Shop & Grill,3.5,420
+Yes,A,Loud,Street,Chinese,Yes,Free,$31-60,Catch NYC,3.5,1825
+No,A,Average,Street,Chinese,NA,No,Under $10,Chinese Fast Wok - Eat In & Take Out,3,57
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,South Of The Clouds,4,130
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Chop Shop,3.5,217
+Yes,NA,Average,Street,Chinese,NA,No,$31-60,Perry St,4,885
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Pad Thai Noodle Lounge,3,281
+Yes,NA,Average,Street,Chinese,Yes,Free,$11-30,Flip Sigi,4,591
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Pinto Garden,4,148
+Yes,A,Average,Street,Chinese,NA,Free,$11-30,Hunan Manor,3.5,269
+Yes,A,Quiet,Street,Chinese,NA,No,$11-30,Radiance,4,147
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Jasmine Restaurant,4,181
+Yes,B,Average,Street,Chinese,Yes,No,$11-30,Wu Liang Ye,3.5,471
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Spice Symphony,4.5,291
+Yes,B,Average,Street,Chinese,Yes,Free,$11-30,Savour Sichuan,3.5,177
+Yes,A,Loud,Street,Chinese,NA,No,Under $10,Hop Won Restaurant,3,137
+Yes,NA,NA,Street,Chinese,No,Free,NA,Hong Kong Food Town,3.5,14
+Yes,A,Average,Street,Chinese,No,No,Under $10,Profit Chinese Restaurant II,3,24
+Yes,B,Average,Street,Chinese,NA,No,$11-30,Mapo Tofu,3.5,287
+Yes,A,Average,Street,Chinese,NA,No,Under $10,East Palace,3,78
+Yes,A,Loud,Street,Chinese,No,Free,$11-30,minigrow,4,81
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Hot Kitchen,3.5,159
+Yes,A,Average,Street,Chinese,No,No,Under $10,Xi?an Famous Foods,4,428
+Yes,A,Quiet,Street,Chinese,NA,No,Under $10,Shanghai,4,76
+Yes,A,Quiet,Street,Chinese,Yes,Free,$11-30,Tri Dim Shanghai,4,228
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Pig Heaven,4,236
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Peng?s Noodle Folk,4.5,322
+Yes,A,Quiet,Street,Chinese,NA,No,$11-30,Ahana,4,133
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Joe?s Shanghai,3.5,1358
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Land of Plenty,3.5,281
+No,A,Average,Street,Chinese,Yes,No,Under $10,Fatima?s Halal Kitchen,4,337
+Yes,A,Quiet,Street,Chinese,NA,No,$11-30,Hunan Delight,3.5,169
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Grand Sichuan Eastern,3.5,232
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Pinch Chinese,4,225
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,China Blue,4,559
+NA,NA,NA,Street,Chinese,NA,NA,Above $61,Chinese Food Cart,5,1
+Yes,A,Average,Street,Chinese,NA,Free,$31-60,Macao trading Co,4,684
+Yes,A,Average,Street,Chinese,No,No,Under $10,Xi?an Famous Foods,4,162
+No,A,Average,Street,Chinese,NA,No,$11-30,Mooncake Foods,4,497
+Yes,NA,Average,Street,Chinese,Yes,No,$11-30,Raku,4.5,124
+No,NA,NA,Street,Chinese,Yes,Free,$11-30,lumos kitchen,5,2
+Yes,A,Average,Street,Chinese,NA,No,Under $10,King Wok,3.5,119
+Yes,A,Average,Street,Chinese,NA,No,Above $61,Mr Chow,3,351
+Yes,A,NA,Street,Chinese,No,No,Under $10,Xi?an Famous Foods,4,36
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,99 Favor Taste,4,1500
+Yes,B,Average,Street,Chinese,Yes,No,$11-30,Bite of Hong Kong ???,3.5,83
+Yes,A,Average,Street,Chinese,NA,Free,Under $10,Dumpling Kingdom,3.5,186
+No,NA,Average,Street,Chinese,No,No,Under $10,Cheong Fun Cart,4.5,57
+No,A,Average,Street,Chinese,NA,No,Under $10,May Wah Fast Food,4,292
+No,A,Average,Street,Chinese,Yes,No,$11-30,August Gatherings,3.5,182
+No,NA,Quiet,Street,Chinese,NA,No,Under $10,Kong Kee,3.5,46
+Yes,A,Average,Street,Chinese,Yes,Free,$11-30,Hello Saigon,4,200
+No,A,NA,Street,Chinese,NA,No,NA,Best Fuzhou Restaurant,4,5
+No,A,Average,Street,Chinese,Yes,No,Under $10,Mei Yu Spring,4,64
+No,B,Average,Street,Chinese,NA,No,Under $10,Forever Taste,4,29
+Yes,B,Average,Street,Chinese,Yes,No,$11-30,Wu?s Wonton King,3.5,174
+No,A,Average,Street,Chinese,No,No,Under $10,Golden Forest,4,137
+Yes,A,Average,Street,Chinese,NA,No,Under $10,Vanessa?s Dumpling House,4,2371
+No,A,Loud,Street,Chinese,Yes,No,Under $10,Super Taste,4,489
+Yes,A,Quiet,Street,Chinese,Yes,No,$31-60,Hwa Yuan,4,141
+No,A,Average,Street,Chinese,Yes,No,Under $10,New Wong Rest,4,37
+Yes,A,Average,Street,Chinese,No,No,$11-30,Yaso Tangbao,4,652
+Yes,A,Average,Street,Chinese,Yes,No,$11-30,Congee Village,3.5,1430
+No,B,Average,Street,Chinese,Yes,No,Under $10,Great NY Noodle Town,3.5,1162
+Yes,A,Loud,Street,Chinese,Yes,No,$11-30,Mission Chinese,3,680
+No,A,Average,Street,Chinese,NA,No,Under $10,China North Dumpling,4,278
+Yes,A,Quiet,Street,Chinese,Yes,Free,$11-30,Shu Han Ju,3.5,137
+Yes,B,Average,Street,Chinese,Yes,Free,$11-30,Le Sia,4,155
+Yes,NA,Average,Street,Chinese,NA,No,$11-30,The Cottage,2.5,225
+Yes,A,Loud,Street,Chinese,Yes,Free,$31-60,Jue Lan Club,3,257
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Wa Jeal Sichuan Chili House,3.5,379
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Tang?s Garden,3,91
+Yes,A,Average,Street,Chinese,NA,No,Under $10,East Garden Chinese Restaurant,3.5,50
+Yes,A,Average,Street,Chinese,NA,Free,$11-30,Cafe Evergreen,3.5,150
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Lilli & Loo,3.5,349
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Chinatown Restaurant,3,246
+Yes,A,Average,Street,Chinese,NA,Free,$31-60,Philippe By Philippe Chow,3.5,594
+Yes,B,Average,Street,Chinese,Yes,No,$11-30,Up Thai,4.5,1853
+Yes,C,NA,Street,Chinese,NA,No,Under $10,China Taste,3,59
+Yes,A,Quiet,Street,Chinese,NA,No,$11-30,Charley Mom Restaurant,3.5,77
+Yes,A,Loud,Street,Chinese,NA,No,Under $10,New Sunny East 88,3.5,58
+Yes,B,Average,Street,Chinese,NA,No,$11-30,New Golden Star,3.5,72
+Yes,A,Quiet,Street,Chinese,NA,No,Under $10,Jade Garden,3.5,71
+Yes,B,Average,Street,Chinese,Yes,Free,$11-30,Empire Szechuan Noodle House,2.5,177
+No,A,Average,Street,Chinese,NA,No,Under $10,No 1 Chinese Restaurant,3.5,114
+No,A,Average,Street,Chinese,NA,No,Under $10,First Choice Chinese Kitchen,3,45
+Yes,A,Average,Street,Chinese,No,No,$11-30,The Handpulled Noodle,4,573
+Yes,A,Average,Street,Chinese,NA,No,$11-30,Chop Chop,3,37
+Yes,NA,Average,Street,Chinese,Yes,No,Under $10,Fairview Chinese Restaurant,4,130
+Yes,NA,Average,Street,Chinese,Yes,Free,$11-30,Wok Bar,4,70
+No,A,Quiet,Street,Chinese,NA,No,Under $10,China Mia,4,33
+No,A,Loud,Street,Chinese,NA,No,Under $10,Golden Wok,3.5,49
+No,A,Average,Street,Chinese,NA,No,Under $10,New Golden Dragon Restaurant,4,25
+Yes,NA,Average,Street,Chinese,Yes,No,$11-30,Szechaun Mirchi,3.5,160
+Yes,NA,Average,Street,Chinese,Yes,No,$11-30,Te Min Quan,4,115
+Yes,A,Average,Street,Chinese,Yes,Free,$31-60,Buddakan,4,3624
+Yes,NA,Average,Street,Chinese,Yes,Free,$11-30,Keming Restaurant,3.5,116
+Yes,A,Average,Street,Korean,Yes,No,$11-30,Benemon,4.5,434
+Yes,A,Average,Street,Korean,Yes,No,$11-30,Han Dynasty,4,1066
+Yes,A,Average,Street,Korean,NA,No,$11-30,Soba-ya,4,1365
+Yes,A,Average,Street,Korean,NA,No,Under $10,Woorijip Authentic Korean Food,4,2471
+Yes,NA,NA,Street,Korean,NA,NA,$11-30,H Mart,3.5,170
+Yes,A,Loud,Street,Korean,Yes,No,$11-30,Jongro BBQ,4,1390
+Yes,NA,NA,Street,Korean,Yes,No,NA,Anytime,5,6
+Yes,NA,Average,Street,Korean,NA,Free,$11-30,BCD Tofu House,4,1738
+Yes,A,Loud,Street,Korean,Yes,Free,$11-30,Five Senses,4,1116
+Yes,A,Loud,Street,Korean,NA,No,$11-30,Soju Haus,4,478
+Yes,A,Quiet,Street,Korean,Yes,No,$31-60,Hangawi,4,1048
+Yes,A,Average,Street,Korean,NA,Free,$11-30,Cho Dang Gol Korean Restaurant,4,927
+Yes,NA,Average,Street,Korean,Yes,No,$31-60,Dons Bogam BBQ & Wine Bar,4,928
+Yes,A,Loud,Street,Korean,NA,No,$11-30,Bangia,4,286
+Yes,A,Loud,Street,Korean,Yes,Free,$31-60,Kang Ho Dong Baekjeong,4,1056
+Yes,A,NA,Street,Korean,Yes,Free,NA,SuPoke Bar,4.5,11
+Yes,A,Average,Street,Korean,Yes,No,$11-30,New Wonjo Restaurant,3.5,1177
+Yes,A,Average,Street,Korean,NA,No,$31-60,Danji,4,905
+Yes,B,Average,Street,Korean,No,Free,$11-30,Red Poke,4.5,452
+Yes,A,Average,Street,Korean,NA,No,$31-60,Bann Restaurant,3.5,583
+Yes,A,Average,Street,Korean,Yes,No,$11-30,GOGI 37,4,199
+Yes,A,Average,Street,Korean,No,No,$11-30,Purple Rice Korean Kitchen,4,145
+Yes,C,Average,Street,Korean,Yes,Free,$11-30,New York Kimchi,3.5,251
+Yes,A,Average,Street,Korean,NA,Free,$11-30,Hell?s Chicken,4,294
+Yes,A,Average,Street,Korean,NA,No,$11-30,Hanbat Restaurant,3.5,453
+Yes,A,Average,Street,Korean,Yes,Free,$11-30,Unidentified Flying Chickens Hell?s Kitchen,4,120
+Yes,NA,Average,Street,Korean,No,Free,$11-30,Ahri?s Kitchen,4,265
+Yes,A,Average,Street,Korean,Yes,No,$11-30,Mokja,4,118
+Yes,B,Average,Street,Korean,Yes,No,$31-60,Samwon Garden Korean BBQ,4,209
+Yes,B,Average,Street,Korean,Yes,Free,$11-30,Gammeeok,3.5,330
+Yes,B,Loud,Street,Korean,Yes,No,$11-30,Gopchang Story BBQ,4,126
+Yes,A,Average,Street,Korean,NA,No,$11-30,Miss KOREA BBQ,3.5,1523
+No,A,Quiet,Street,Korean,No,No,Under $10,E-Mo,4,329
+Yes,B,Average,Street,Korean,NA,No,$11-30,OBAO,4,1984
+Yes,A,Average,Street,Korean,Yes,No,$31-60,Let?s Meat,3.5,341
+Yes,A,Average,Street,Korean,NA,No,$11-30,Gyu-Kaku Japanese BBQ,4,1078
+Yes,A,Average,Street,Korean,NA,No,$11-30,Korean Express,3.5,260
+Yes,NA,Average,Street,Korean,No,Free,$11-30,Gogi Grill - Hoboken,4,167
+Yes,A,Loud,Street,Korean,Yes,No,$11-30,The Kunjip,2.5,810
+Yes,B,Loud,Street,Korean,NA,No,$11-30,Pocha 32,3.5,1363
+Yes,A,Quiet,Street,Korean,Yes,Free,$11-30,Sakura Japanese Restaurant,4,23
+Yes,A,Quiet,Street,Korean,Yes,No,$11-30,Ho Wan Restaurant,3.5,83
+Yes,A,Average,Street,Korean,Yes,Free,$11-30,BARO by Chefs Society,3.5,93
+Yes,A,Average,Street,Korean,NA,No,$11-30,Mill Korean,3,302
+Yes,A,Average,Street,Korean,Yes,Free,$11-30,Koko Wings,3.5,272
+Yes,A,Average,Street,Korean,No,Free,$11-30,Junzi Kitchen,4,132
+Yes,NA,Average,Street,Korean,NA,Free,$11-30,BBQ Chicken & Beer,4,151
+No,NA,Loud,Street,Korean,NA,No,Under $10,Uncle Luoyang,3.5,29
+Yes,A,Average,Street,Korean,NA,No,$11-30,Jin Ramen - West Harlem,4,977
+Yes,A,Average,Street,Korean,Yes,Free,$11-30,Red Hot Hot Pot,4,50
+Yes,A,Average,Street,Korean,Yes,No,$11-30,Thai Market,4,904
+Yes,B,Average,Street,Korean,No,Free,$11-30,Makana BBQ & Poke,3.5,185
+Yes,A,Average,Street,Korean,Yes,No,$11-30,Sun-Chan Japanese Restaurant,3.5,194
+Yes,A,Average,Street,Korean,No,Free,$11-30,Manna?s Restaurant,3.5,96
+Yes,C,Average,Street,Korean,Yes,No,$11-30,Naruto Ramen,4,197
+Yes,A,Average,Street,Korean,NA,No,$11-30,Manna?s Restaurant,3.5,27
+Yes,A,Average,Street,Korean,Yes,No,$11-30,Kissaten Jin,3.5,105
+Yes,A,Average,Street,Korean,Yes,No,$11-30,Szechuan Garden,4,220
+Yes,NA,Average,Street,Korean,Yes,Free,$11-30,House Malaysian,4,129
+Yes,A,Quiet,Street,Korean,NA,Free,Under $10,Charlie?s Place,4,105
+Yes,B,Average,Street,Korean,Yes,No,$11-30,Geisha Sushi,4,332
+Yes,A,Quiet,Street,Korean,Yes,No,$11-30,Rai Rai Ken,3,73
+Yes,B,Average,Street,Korean,Yes,Free,Above $61,Sushi Inoue,4,103
+Yes,A,Average,Street,Korean,Yes,No,$11-30,Yuzu,4,175
+Yes,A,Loud,Street,Korean,NA,No,$11-30,Dinosaur Bar-B-Que,4,2777
+Yes,A,Average,Street,Korean,NA,Free,$11-30,Jacob Restaurant,4,297
+Yes,B,Average,Street,Korean,No,No,$11-30,New Asia,2,40
+Yes,A,Average,Street,Korean,Yes,Free,$11-30,Buffalo Wild Wings,2,242
+No,B,Average,Street,Korean,Yes,No,$11-30,Cocoron,4,577
+Yes,A,Quiet,Street,Korean,NA,No,$11-30,Mikaku Sushi,3.5,129
+Yes,NA,NA,Street,Korean,Yes,No,NA,Drunken Chicken,4,18
+Yes,A,Average,Street,Korean,NA,No,$11-30,Sik Gaek,4,525
+Yes,A,Quiet,Street,Korean,Yes,No,$11-30,Doma,4,131
+Yes,A,Average,Street,Korean,Yes,Free,$11-30,Mokja,3.5,231
+Yes,NA,Average,Street,Korean,No,Free,$11-30,Junzi Kitchen,4.5,89
+No,A,Average,Street,Korean,NA,No,$11-30,Mooncake Foods,4,497
+Yes,C,Average,Street,Korean,Yes,No,$31-60,DOMODOMO,4,703
+Yes,A,Average,Street,Korean,Yes,Free,$31-60,Lure Fishbar - New York,4,1513
+Yes,A,Average,Street,Korean,Yes,No,$31-60,Blue Ribbon Sushi,4,1024
+Yes,A,Average,Street,Korean,Yes,No,$11-30,Char Sue,4.5,136
+Yes,NA,Average,Street,Korean,No,Free,Under $10,The Bao Shoppe,4,170
+Yes,A,Average,Street,Korean,NA,No,$11-30,Hakata Tonton,4,939
+Yes,NA,Average,Street,Korean,NA,No,$31-60,Perry St,4,885
+Yes,A,Average,Street,Korean,No,Free,$11-30,Maroo,4,118
+Yes,A,Loud,Street,Korean,NA,Free,Under $10,Delissimo,3.5,55
+Yes,A,Average,Street,Korean,NA,No,$11-30,Natural Tofu Restaurant,3.5,321
+Yes,B,Average,Street,Korean,Yes,No,$11-30,Up Thai,4.5,1854
+Yes,A,Quiet,Street,Korean,No,Free,$11-30,Kini,4,71
+Yes,A,Average,Street,Korean,Yes,No,$11-30,Peng?s Noodle Folk,4.5,322
+Yes,A,NA,Street,Korean,No,Free,NA,Wing Club,4,13
+Yes,A,Average,Street,Korean,Yes,No,$31-60,Oiji,4.5,431
+Yes,NA,Average,Street,Korean,NA,No,$11-30,Mono+Mono,4,335
+Yes,A,Average,Street,Korean,Yes,No,$11-30,Thursday Kitchen,4.5,1050
+Yes,A,Average,Street,Korean,Yes,Free,$11-30,K?OOK,4,370
+Yes,A,Average,Street,Korean,Yes,Free,$31-60,Grand Seoul,4.5,41
+Yes,A,Quiet,Street,Korean,Yes,Free,$11-30,Gomi Korean Wine Bar,4.5,94
+Yes,NA,Average,Street,Korean,Yes,Free,$31-60,Soogil,4,62
+Yes,A,Average,Street,Korean,Yes,Free,$31-60,Ms Yoo,4,94
+Yes,A,Average,Street,Korean,Yes,Free,$11-30,Barn Joo,4,1315
+Yes,A,Average,Street,Korean,NA,No,$11-30,Boka,3.5,1407
+Yes,A,Loud,Street,Korean,No,No,$11-30,Fat Buddha,4,594
+Yes,A,Average,Street,Korean,Yes,Free,$11-30,Tofu Tofu,4.5,226
+Yes,A,Quiet,Street,Korean,No,Free,NA,The Dumpling Shop,4.5,54
+Yes,A,Average,Street,Korean,NA,No,$31-60,Hanjan,4,373
+Yes,A,Average,Street,Korean,Yes,Free,$11-30,Dotory,4,145
+Yes,A,Average,Street,Korean,Yes,No,$31-60,Cote,4,530
+Yes,A,Average,Street,Korean,Yes,No,$31-60,Atoboy,4.5,244
+Yes,NA,NA,Street,Korean,No,No,$11-30,Kimchi Smoke,4.5,9
+Yes,A,Average,Street,Korean,No,Free,$11-30,Bowllin?,3.5,96
+Yes,A,Quiet,Street,Korean,Yes,No,Above $61,Kyo Ya,4.5,432
+Yes,A,Average,Street,Korean,NA,No,$11-30,Pig and Khao,4,1368
+Yes,A,Average,Street,Korean,NA,No,$11-30,Dokebi Bar & Grill,3.5,337
+Yes,C,Average,Street,Korean,No,Free,$11-30,Som Bo,4,127
+Yes,B,Average,Street,Korean,No,Free,$11-30,Gogi Grill - Chelsea,4.5,36
+Yes,A,Quiet,Street,Korean,NA,No,Under $10,Maru 2,4.5,94
+Yes,NA,NA,Street,Korean,NA,Free,NA,Kichin at Baby?s All Right,4.5,8
+Yes,NA,Average,Street,Korean,Yes,No,$11-30,Tatsu Ramen,4.5,157
+NA,NA,NA,Street,Korean,No,NA,NA,BOHO?s Kitchen,5,6
+Yes,A,Average,Street,Korean,Yes,Free,$11-30,Clay Pot NYC,4.5,175
+Yes,A,Loud,Street,Korean,No,No,Under $10,KoFoo,3.5,79
+Yes,A,Average,Street,Korean,Yes,No,$11-30,Root & Bone,4,1423
+Yes,A,Average,Street,Korean,NA,No,$11-30,Shabu-Tatsu East Village,4,585
+No,A,Average,Street,Korean,Yes,Free,$11-30,Cocoron,4,928
+Yes,NA,Average,Street,Korean,Yes,Free,$11-30,Hot Box,4,143
+Yes,NA,Average,Street,Korean,NA,Free,$11-30,Yokozuna,3.5,271
+Yes,NA,Average,Street,American,Yes,NA,Under $10,Boomarang Diner,3,17
+Yes,A,Quiet,Street,American,Yes,No,$31-60,Hwa Yuan,4,141
+Yes,A,Average,Street,American,No,Free,$11-30,Simple NYC,4.5,302
+Yes,A,Quiet,Street,American,Yes,Free,$11-30,Amano Sushi,4,37
+Yes,A,Average,Street,American,Yes,Free,$11-30,Tofu Tofu,4.5,226
+No,A,Average,Street,American,NA,No,Under $10,Hua Ji Pork Chop Fast Food,4,70
+Yes,A,Average,Street,American,Yes,Free,$31-60,Char House,4,72
+Yes,A,Average,Street,American,NA,Free,$11-30,New Malaysia,3.5,644
+No,A,Average,Street,American,Yes,Free,$11-30,Aux Epices,4,281
+Yes,A,Average,Street,American,Yes,No,$11-30,Jane,4,2967
+Yes,NA,Average,Street,American,Yes,No,Under $10,Asian Spicy Curry Pop-up,4.5,123
+Yes,A,Average,Street,American,Yes,Free,$31-60,Gran Morsi,4.5,290
+Yes,A,Average,Street,American,Yes,Free,$31-60,Juku,4,77
+Yes,A,Average,Street,American,Yes,Free,$11-30,Distilled,4,737
+Yes,A,Average,Street,American,Yes,No,$11-30,Nickel & Diner,4,339
+No,A,Average,Street,American,Yes,No,Under $10,WK Restaurant,4,53
+Yes,A,Loud,Street,American,Yes,Free,$31-60,Esther & Carol,4,93
+No,A,Average,Street,American,Yes,No,Under $10,Taiwan Pork Chop House,4,351
+Yes,A,Loud,Street,American,NA,No,$11-30,Jackâ¿?s Wife Freda,4,1658
+No,A,Average,Street,American,Yes,No,Under $10,88 Lan Zhou Handmade Noodles,4,1568
+Yes,A,Average,Street,American,No,No,Under $10,Taiwan Bear House,4,268
+Yes,A,Quiet,Street,American,Yes,Free,Above $61,Atera,4.5,225
+Yes,B,Average,Street,American,NA,Free,$11-30,Manhattan Proper,4,279
+Yes,A,Loud,Street,American,Yes,Free,Above $61,CUT,3.5,42
+Yes,A,Average,Street,American,NA,Free,$11-30,Tinyâ¿?s & the Bar Upstairs,4,510
+Yes,A,Average,Street,American,Yes,Free,$11-30,The Malt House,4,402
+Yes,A,Average,Street,American,Yes,No,$31-60,Racines,3.5,108
+Yes,A,Average,Street,American,No,No,Under $10,Breakroom,4.5,1441
+Yes,A,Average,Street,American,NA,No,$11-30,Freemans,4,1936
+Yes,A,Average,Street,American,Yes,No,$31-60,The Odeon,4,579
+Yes,A,Average,Street,American,Yes,Free,$11-30,1803,4.5,159
+No,NA,Average,Street,American,NA,No,Under $10,Sanuria,3.5,218
+Yes,A,Average,Street,American,NA,No,Under $10,Noodle Village,4,876
+Yes,A,Average,Street,American,NA,Free,$11-30,Chatham Seafood Restaurant,3.5,182
+No,B,Average,Street,American,Yes,No,Under $10,Tasty Hand-Pulled Noodles,4,1451
+Yes,B,Average,Street,American,Yes,No,$11-30,Famous Sichuan,3.5,342
+Yes,A,Average,Street,American,NA,Free,$11-30,Tre Sorelle,3.5,132
+Yes,A,Average,Street,American,NA,No,$11-30,Sole di Capri,4,222
+No,A,Average,Street,American,Yes,No,Under $10,Vegetarian Dim Sum House,3.5,518
+Yes,B,Loud,Street,American,NA,Free,$11-30,Pulqueria,3.5,453
+Yes,A,Average,Street,American,No,No,Under $10,Mama Eatery,4,110
+Yes,B,Average,Street,American,Yes,No,Under $10,Taste of Shanghai,3,46
+Yes,A,Average,Street,American,No,No,Under $10,Famous Calabria,4,65
+Yes,A,Average,Street,American,NA,No,$11-30,Luna Pizza,4,67
+No,A,Average,Street,American,Yes,No,$11-30,Joeâ¿?s Ginger,3,497
+Yes,A,Average,Street,American,Yes,No,$31-60,The Eddy,4.5,352
+Yes,B,Average,Street,American,NA,Free,$11-30,Brindle Room,4,938
+Yes,A,Average,Street,American,Yes,No,$11-30,Thursday Kitchen,4.5,1049
+Yes,A,Average,Street,American,Yes,Free,$31-60,Bowery Road,4.5,137
+Yes,NA,NA,Street,American,Yes,No,NA,Savor Por Favor,4.5,28
+Yes,A,Average,Street,American,NA,Free,$11-30,Cooperâ¿?s Craft & Kitchen,4,401
+Yes,A,Average,Street,American,Yes,Free,Under $10,5C Cafe,5,19
+Yes,A,Average,Street,American,NA,No,$31-60,Hearth,4,662
+Yes,B,Average,Street,American,Yes,Free,$11-30,Sister Jane NYC,4.5,36
+Yes,A,Average,Street,American,NA,No,$11-30,Upstate,4.5,1617
+Yes,A,Average,Street,American,Yes,No,$31-60,Tuome,4.5,358
+Yes,NA,NA,Street,American,No,Free,NA,East Village Tavern,5,18
+Yes,A,Quiet,Street,American,Yes,No,$11-30,Haile Bistro,4,172
+Yes,A,Loud,Street,American,NA,Free,$11-30,The Smith,3.5,1822
+Yes,B,Average,Street,American,Yes,Free,$11-30,PMF Pardon My French,4,797
+Yes,A,Average,Street,American,NA,No,$11-30,Westville - East,4,989
+Yes,A,Average,Street,American,Yes,Free,$31-60,Feast,4,426
+Yes,A,Average,Street,American,Yes,Free,$11-30,POST,4.5,175
+Yes,NA,Average,Street,American,Yes,No,$11-30,Linen Hall,4,156
+Yes,NA,Average,Street,American,NA,No,$11-30,Ichabodâ¿?s,4,551
+Yes,A,Average,Street,American,Yes,Free,$11-30,Fiaschetteria Pistoia,4.5,116
+Yes,A,Average,Street,American,Yes,No,Above $61,Momofuku Ko,4.5,248
+Yes,A,Average,Street,American,Yes,No,$11-30,Jane,4,2968
+Yes,A,Average,Street,American,Yes,No,$11-30,Grape and Grain,4,292
+Yes,C,Average,Street,American,NA,Free,$11-30,East Village Social,4,112
+Yes,A,Average,Street,American,Yes,No,$11-30,Midwinter Kitchen,4.5,430
+Yes,A,Average,Street,American,NA,Free,$11-30,Boulton & Watt,4,630
+Yes,NA,NA,Street,American,Yes,Free,$11-30,Boticarios,4.5,86
+Yes,A,Average,Street,American,NA,Free,$11-30,The Brazen Fox,3.5,340
+Yes,A,Loud,Street,American,NA,No,$31-60,Beauty & Essex,4,3068
+Yes,B,Average,Street,American,NA,Free,$11-30,Royale,4,444
+Yes,A,Average,Street,American,Yes,No,$11-30,The Mermaid Inn,4,1238
+Yes,A,Average,Street,American,No,Free,Under $10,DokoDemo,4.5,190
+Yes,A,Average,Street,Indian,NA,Free,$11-30,The MasalaWala,4.5,1266
+Yes,A,Average,Street,Indian,Yes,No,$11-30,Malai Marke Indian Cuisine,4,510
+Yes,A,Average,Street,Indian,Yes,Free,$11-30,Mughlai Grill,5,224
+Yes,A,Average,Street,Indian,Yes,NA,$31-60,Old Monk,4,65
+Yes,A,Average,Street,Indian,Yes,Free,$11-30,Apna Masala Indian Cuisine,3.5,190
+Yes,C,Average,Street,Indian,No,No,$11-30,Desi Galli,3.5,68
+Yes,A,Quiet,Street,Indian,Yes,Free,$11-30,Ahimsa Garden,4.5,63
+Yes,B,Quiet,Street,Indian,Yes,Free,$11-30,Cinnamon Garden,4.5,45
+Yes,A,Quiet,Street,Indian,Yes,No,$11-30,Haveli Restaurant,4,331
+Yes,A,Average,Street,Indian,Yes,No,$11-30,Dhaba Indian Cuisine,3.5,1426
+No,NA,Loud,Street,Indian,Yes,No,$11-30,Milon,3.5,489
+Yes,A,Average,Street,Indian,Yes,Free,$31-60,Baar Baar,4,310
+Yes,A,Average,Street,Indian,Yes,No,$11-30,Pippali,4,637
+Yes,A,Quiet,Street,Indian,Yes,No,$11-30,Mughlai Indian Cuisine,4,313
+Yes,A,Average,Street,Indian,Yes,Free,$11-30,Tikka Indian Grill,4.5,231
+No,NA,Average,Street,Indian,No,No,Under $10,Punjabi Grocery & Deli,4.5,362
+Yes,A,Average,Street,Indian,Yes,Free,$31-60,Rahi,4.5,274
+Yes,B,Average,Street,Indian,Yes,Free,$11-30,Surya,4,174
+Yes,A,Average,Street,Indian,NA,No,$11-30,indikitch,4,654
+Yes,A,Average,Street,Indian,Yes,No,$11-30,Ahimsa,4,223
+Yes,A,Average,Street,Indian,NA,No,$11-30,Chennai Garden by Tiffin Wallah,4,709
+Yes,A,Average,Street,Indian,NA,Free,$11-30,Masala Times,4,504
+No,A,Loud,Street,Indian,NA,No,$11-30,Panna II Garden Indian Restaurant,3,909
+Yes,A,Quiet,Street,Indian,NA,No,$11-30,Mahal Kita,4,245
+Yes,A,Average,Street,Indian,NA,Free,$11-30,TAJ,3.5,234
+No,NA,Average,Street,Indian,NA,No,Under $10,Mysttik Masaala,4.5,323
+Yes,A,Average,Street,Indian,NA,Free,$31-60,Vatan Indian Vegetarian,4,553
+Yes,A,Average,Street,Indian,No,Free,$11-30,Inday,4,311
+Yes,A,Average,Street,Indian,NA,No,$11-30,Ghandi Cafe,4,329
+Yes,A,Average,Street,Indian,NA,No,$11-30,Raj Mahal,3,196
+Yes,A,Average,Street,Indian,NA,No,Under $10,Thelewala,4,436
+Yes,A,Average,Street,Indian,Yes,No,$31-60,Avant Garden,4.5,255
+Yes,A,Average,Street,Indian,Yes,No,$11-30,Sahib,4,130
+Yes,A,Average,Street,Indian,NA,No,$11-30,Saravanaa Bhavan,3.5,817
+Yes,A,Quiet,Street,Indian,NA,No,$11-30,Agra Taj Mahal,3.5,140
+Yes,NA,Loud,Street,Indian,Yes,Free,$11-30,Babu Ji,3.5,137
+Yes,A,Average,Street,Indian,Yes,Free,$11-30,Divyaâ¿?s Kitchen,4.5,239
+Yes,A,Average,Street,Indian,No,No,Under $10,Taco Mahal,4.5,410
+No,NA,Average,Street,Indian,NA,No,Under $10,NY Dosas,4.5,378
+Yes,A,Average,Street,Indian,NA,No,$11-30,Bhatti Indian Grill,3.5,639
+No,A,Average,Street,Indian,NA,Free,$11-30,Sigiri,4,564
+Yes,B,Average,Street,Indian,NA,No,Under $10,Curry Express,3.5,214
+Yes,A,Average,Street,Indian,Yes,No,Under $10,Cafe Himalaya,4,570
+Yes,B,Average,Street,Indian,Yes,Free,$11-30,Aahar Indian Cuisine,4,237
+Yes,B,Average,Street,Indian,NA,Free,$11-30,Benares,4,393
+Yes,A,Average,Street,Indian,Yes,No,$31-60,Tamarind,4,786
+Yes,A,Average,Street,Indian,NA,No,$11-30,Bombayâ¿?s Indian Restaurant,3.5,172
+Yes,A,Average,Street,Indian,NA,Free,Under $10,Tandoor Palace,3.5,155
+Yes,A,Quiet,Street,Indian,NA,Free,$11-30,A Saffron Thread Fresh Indian,3.5,102
+Yes,A,Average,Street,Indian,No,No,Under $10,DiwaneKhaas,3.5,107
+Yes,A,Average,Street,Indian,Yes,No,$11-30,Salaam Bombay,3,145
+Yes,A,Average,Street,Indian,NA,No,$11-30,Curry Heights,3.5,237
+Yes,A,Average,Street,Indian,NA,No,$11-30,Asya Indian Restaurant,3,235
+Yes,C,Quiet,Street,Indian,NA,No,$11-30,Polash,4,195
+Yes,A,Average,Street,Indian,Yes,Free,$11-30,Delhi Masala,4,134
+Yes,A,Average,Street,Indian,Yes,No,$11-30,Mughlai Indian Cuisine,4.5,350
+Yes,NA,Average,Street,Indian,Yes,No,$11-30,Namaste India,4,235
+No,NA,Average,Street,Indian,NA,No,Under $10,Doaba Deli,4.5,216
+Yes,A,Average,Street,Indian,NA,Free,$11-30,The Drunken Munkey,4.5,808
+Yes,A,Average,Street,Indian,NA,No,$11-30,Seva Indian Cuisine,4.5,1088
+Yes,A,Average,Street,Indian,Yes,No,$11-30,Yaar Indian Restaurant,4.5,347
+Yes,A,Average,Street,Indian,NA,No,$11-30,Maharaja Palace,3.5,155
+Yes,B,Average,Street,Indian,Yes,No,$11-30,Clove Indian Restaurant & Bar,4,219
+Yes,A,Average,Street,Indian,Yes,Free,$11-30,Manhattan Valley,4,72
+Yes,B,Average,Street,Indian,No,No,Under $10,Chapati House,4,195
+Yes,C,Average,Street,Indian,Yes,Free,$11-30,Awadh,3.5,271
+Yes,B,Quiet,Street,Indian,NA,Free,$11-30,Aangan,3.5,179
+Yes,B,Quiet,Street,Indian,Yes,Free,$11-30,Spice Hut Indian Restaurant,3,51
+Yes,A,Quiet,Street,Indian,NA,No,$11-30,Indian Tanpura,4,129
+Yes,B,Average,Street,Indian,Yes,Free,$11-30,Kurry Qulture,4.5,275
+Yes,NA,Average,Street,Indian,No,No,Under $10,Roti Roll Bombay Frankie,4,347
+Yes,NA,NA,Street,Indian,Yes,Free,NA,Namaste Himalayan,5,1
+Yes,A,Average,Street,Indian,Yes,Free,$11-30,Ashoka Indian Restaurant,4.5,204
+Yes,B,Quiet,Street,Indian,NA,Free,$11-30,Ayurveda Cafe,4,285
+Yes,A,Average,Street,Indian,No,No,$11-30,indikitch,4,388
+Yes,A,Quiet,Street,Indian,Yes,No,$11-30,Hungry Bird,4.5,167
+Yes,A,Average,Street,Indian,Yes,No,$11-30,Aaheli Indian Cuisine,4,351
+Yes,A,Average,Street,Indian,NA,No,$11-30,Om Restaurant,4,453
+Yes,A,Average,Street,Indian,Yes,Free,$11-30,Mumbai Masala,4.5,132
+Yes,NA,Average,Street,Indian,Yes,No,$11-30,Szechaun Mirchi,3.5,160
+Yes,A,Average,Street,Indian,Yes,Free,$11-30,Spice Symphony,4,520
+Yes,B,Average,Street,Indian,NA,Free,Under $10,Desi Galli,3.5,278
+Yes,A,Average,Street,Indian,Yes,No,$11-30,Chote Nawab,3.5,489
+Yes,A,Average,Street,Indian,NA,Free,$11-30,Pongal,3.5,415
+Yes,B,Average,Street,Indian,NA,No,$11-30,Anjappar Chettinad Restaurant,3,279
+Yes,NA,Average,Street,Indian,Yes,Free,$11-30,The Chinese Club NYC - Desiwala Chinese,3.5,81
+Yes,B,Average,Street,Indian,No,No,Under $10,Haandi,3.5,281
+Yes,A,Average,Street,Indian,NA,No,$11-30,Curry In A Hurry,3,439
+Yes,A,Average,Street,Indian,NA,No,Under $10,The Kati Roll Company,4,829
+Yes,B,Average,Street,Indian,NA,Free,$11-30,Nanking,4,303
+Yes,A,Average,Street,Indian,NA,No,$11-30,India Cafe,4,54
+Yes,A,Average,Street,Indian,Yes,Free,$11-30,Punjabi Kabab and Gyro,4,36
+Yes,B,Average,Street,French,Yes,Free,$11-30,PMF Pardon My French,4,797
+Yes,A,Average,Street,French,Yes,No,$11-30,Améìie,4.5,2253
+Yes,A,Average,Street,French,Yes,No,$11-30,Le French Diner,4.5,84
+Yes,A,Average,Street,French,Yes,Free,$31-60,Dirty French,4,554
+Yes,A,Average,Street,French,Yes,Free,$11-30,Raclette,4,1034
+Yes,NA,Average,Street,French,Yes,No,$31-60,Lucien,3.5,314
+Yes,NA,NA,Street,French,Yes,Free,$31-60,Papilles,5,16
+Yes,A,Average,Street,French,Yes,No,$11-30,Buvette,4,1537
+Yes,A,NA,Street,French,Yes,No,$31-60,Boucherie - Park,4.5,350
+No,A,Average,Street,French,NA,No,$11-30,Pates Et Traditions,4.5,790
+Yes,A,Average,Street,French,Yes,No,$11-30,Ducks Eatery,4,575
+Yes,A,Loud,Street,French,Yes,No,$31-60,Balthazar Restaurant,4,2814
+Yes,A,Average,Street,French,Yes,Free,$31-60,Boucherie West Village,4.5,801
+No,A,Average,Street,French,Yes,No,$11-30,Les Enfants de Boheme,4.5,172
+Yes,A,Average,Street,French,Yes,Free,$11-30,David?s Cafe,4,160
+Yes,NA,NA,Street,French,Yes,Free,$31-60,Petite Boucherie,4.5,69
+Yes,A,Average,Street,French,Yes,No,$11-30,Tournesol,4,387
+Yes,A,Average,Street,French,Yes,No,$31-60,Claudette,4,316
+Yes,A,Average,Street,French,Yes,Free,$11-30,Bistro Les Amis,4,337
+Yes,A,Average,Street,French,Yes,Free,$11-30,Le Baratin,4,181
+Yes,A,Average,Street,French,NA,No,$31-60,Cocotte,4,286
+Yes,A,Average,Street,French,Yes,No,Above $61,Le Coucou,4,413
+No,A,Average,Street,French,NA,No,$11-30,Kafana,4,381
+Yes,A,Average,Street,French,NA,Free,$11-30,Le Midi,4,341
+Yes,A,Average,Street,French,NA,No,$11-30,Vin Sur Vingt,4,120
+Yes,A,Average,Street,French,Yes,No,$11-30,Caf Gitane,4,701
+Yes,A,Quiet,Street,French,Yes,Free,$11-30,Troquet,4,111
+Yes,NA,Quiet,Street,French,Yes,No,$31-60,Autre Kyo Ya,4,93
+Yes,B,Loud,Street,French,NA,Free,$11-30,Jules Bistro,3.5,468
+Yes,A,Average,Street,French,Yes,No,$31-60,MIMI,4,118
+Yes,A,Average,Street,French,Yes,No,$31-60,ABC Kitchen,4,2794
+Yes,A,Average,Street,French,NA,Free,$31-60,La Sirene,4.5,1531
+Yes,A,Average,Street,French,Yes,No,$31-60,Augustine,3.5,188
+Yes,A,Average,Street,French,Yes,Free,$11-30,St. George Tavern,4,99
+Yes,A,Average,Street,French,Yes,No,$31-60,Racines,3.5,108
+Yes,A,Average,Street,French,Yes,No,$31-60,The Odeon,4,579
+Yes,NA,Average,Street,French,NA,Free,$31-60,Taureau,4.5,556
+Yes,A,Average,Street,French,Yes,No,$11-30,Yves,4,46
+Yes,NA,Average,Street,French,NA,No,$31-60,Raoul?s Restaurant,4,425
+Yes,A,Average,Street,French,Yes,No,Above $61,Bâôard,4,317
+Yes,A,Average,Street,French,Yes,Free,$11-30,Maman Tribeca,4,212
+Yes,A,Quiet,Street,French,Yes,Free,$31-60,Compagnie des Vins Surnaturels,4.5,100
+Yes,NA,Average,Street,French,NA,Free,$31-60,Satis Bistro,4,597
+Yes,A,Average,Street,French,Yes,No,$11-30,L?NA,4.5,78
+No,A,Average,Street,French,Yes,Free,$11-30,Aux Epices,4,281
+Yes,A,Average,Street,French,Yes,No,$11-30,Le Relais de Venise L?Entrecote,4,67
+Yes,A,Average,Street,French,Yes,No,$31-60,MAMO Restaurant,4,206
+Yes,A,Average,Street,French,Yes,No,$31-60,Le Turtle,4,128
+Yes,A,Average,Street,French,NA,Free,$11-30,Felice,4,292
+Yes,NA,NA,Street,French,Yes,Free,$31-60,Brigitte Bistro Moderne,4,37
+Yes,A,Average,Street,French,NA,Free,$31-60,Gentleman Farmer,4,257
+Yes,A,Average,Street,French,Yes,Free,$11-30,49 Monroe,4.5,142
+Yes,A,Average,Street,French,Yes,Free,$11-30,Sel Rrose,4,407
+Yes,A,NA,Street,French,NA,No,$11-30,La Mercerie,3.5,77
+Yes,A,Average,Street,French,Yes,No,$11-30,Le Parisien,4,881
+Yes,A,Average,Street,French,NA,No,$11-30,Anyway Cafe,4,198
+Yes,A,NA,Street,French,No,Free,NA,Pinky?s Space,4.5,9
+Yes,A,Average,Street,French,NA,No,$11-30,Le Grainne Cafe,4,585
+Yes,A,Quiet,Street,French,Yes,No,$11-30,La Bergamote NYC,4,315
+Yes,NA,Average,Street,French,Yes,Free,$31-60,Soogil,4,62
+Yes,A,Average,Street,French,Yes,No,$31-60,The NoMad Restaurant,4,1365
+Yes,A,Average,Street,French,NA,Free,$11-30,Petit Poulet,4,375
+Yes,A,Average,Street,French,NA,No,$11-30,L?Express,3.5,753
+Yes,A,Quiet,Street,French,NA,No,Above $61,Eleven Madison Park,4.5,1926
+Yes,A,Quiet,Street,French,Yes,No,$11-30,Le Pif,4.5,142
+Yes,NA,NA,Street,French,NA,NA,Above $61,Le Restaurant d?Alex,5,1
+Yes,A,Average,Street,French,NA,Free,$31-60,Le Bateau Ivre,4,374
+Yes,A,Average,Street,French,NA,Free,$11-30,Bar Six,3.5,212
+Yes,NA,Average,Street,French,Yes,No,$11-30,Follia NYC,4,114
+Yes,A,Average,Street,French,No,Free,$11-30,Cuisine By Claudette,4.5,103
+No,NA,Quiet,Street,French,NA,No,$11-30,Fresco Creperie & Cafe,4,109
+No,NA,NA,Street,French,No,No,Under $10,Harajuku Sushi and Crepe,5,12
+Yes,A,Quiet,Street,French,Yes,No,$11-30,Deux Amis,4,137
+Yes,A,Average,Street,French,Yes,No,$31-60,Marseille,4,793
+Yes,A,Average,Street,French,No,Free,$11-30,Ratatouille,4,241
+Yes,A,Average,Street,French,NA,Free,$31-60,Bistro Vendome,4,107
+Yes,A,Quiet,Street,French,NA,No,Above $61,La Grenouille,4,392
+Yes,C,Average,Street,French,Yes,Free,$11-30,Aunt Jake?s,4,935
+Yes,A,Average,Street,French,Yes,Free,$11-30,Balzem,4,358
+Yes,A,Average,Street,French,NA,No,$31-60,Aurora Soho,4,394
+Yes,A,Quiet,Street,French,Yes,No,$11-30,YN,4,185
+Yes,A,Average,Street,French,Yes,No,$31-60,Osteria Morini Manhattan,4,1036
+Yes,A,NA,Street,French,NA,NA,NA,Le Botaniste,4.5,71
+Yes,A,Average,Street,French,Yes,Free,$11-30,Galli,4,784
+Yes,A,Average,Street,French,NA,Free,$11-30,Epistrophy,3.5,403
+Yes,A,Average,Street,French,Yes,No,$31-60,Bacaro,4,369
+Yes,A,Average,Street,French,NA,No,$11-30,Cafe Select,3.5,415
+Yes,NA,Average,Street,French,Yes,Free,$11-30,Delicatessen,3.5,1137
+Yes,A,Average,Street,French,Yes,Free,$11-30,Bocaditos Bistro,4.5,222
+Yes,A,Average,Street,French,Yes,Free,$11-30,Anchor Heights,4,133
+Yes,A,Average,Street,French,Yes,Free,$11-30,The Hill Bistro,4.5,122
+No,A,Average,Street,French,Yes,No,$11-30,Teuta Qebaptore,5,5
+Yes,NA,Average,Street,French,No,No,Under $10,T-Swirl Crêðe,4.5,154
+Yes,A,Average,Street,French,NA,No,$11-30,Locksmith Bar,4,287
+No,C,Average,Street,French,NA,Free,$11-30,The Park View,3.5,299
+Yes,A,Quiet,Street,French,Yes,Free,$11-30,Pop and Pour Cafe,4.5,75
+Yes,A,Average,Street,French,NA,Free,$11-30,Michaelangelo?s Little Italy,3.5,167
+Yes,A,NA,Street,French,Yes,Free,$11-30,Terravita,5,57
+Yes,A,Average,Street,French,Yes,Free,$11-30,Ponty Bistro,4,334
+Yes,A,Average,Street,French,NA,Free,$11-30,Crepes on Columbus,3.5,508
+Yes,A,Average,Street,French,NA,Free,$11-30,Cafe Amrita,3.5,235
+Yes,NA,Average,Street,French,Yes,No,$11-30,B2 Harlem,4,188
+Yes,A,Average,Street,French,Yes,Free,$11-30,Mamajuana Cafe The Bronx,2.5,272
+Yes,A,Average,Street,French,Yes,No,$11-30,D?Amore Winebar & Ristorante,4.5,200
+Yes,A,Average,Street,French,Yes,Free,$11-30,Hogshead Tavern,4.5,176
+Yes,A,Average,Street,French,Yes,Free,$11-30,Artopolis,3,272
+Yes,A,NA,Street,French,Yes,No,$31-60,Boucherie - Park,4.5,351
+Yes,A,Average,Street,French,NA,No,$31-60,Chez Napoleon,4,255
+Yes,B,Average,Street,French,Yes,No,$31-60,Vitae,4,745
+Yes,A,Average,Street,French,NA,Free,$11-30,Papillon Bistro & Bar,3.5,366
+Yes,A,Average,Street,French,NA,No,$31-60,Madison Bistro,3.5,126
+Yes,A,Quiet,Street,French,Yes,No,$11-30,La Bergamote,4,336
+Yes,A,Average,Street,French,Yes,No,$11-30,Tout Va Bien,3.5,299
+Yes,A,Average,Street,French,Yes,No,$11-30,Pergola Des Artistes,3.5,105
+Yes,A,Average,Street,French,NA,Free,$31-60,Brasserie Cognac,3.5,331
+Yes,A,Average,Street,French,Yes,No,$11-30,Saju,3.5,250
+Yes,A,Average,Street,French,Yes,No,$31-60,Rue 57,3.5,1006
+Yes,A,Average,Street,French,No,No,$11-30,Poulette Rotisserie,3.5,160
+Yes,A,Average,Street,French,NA,Free,Above $61,Ai Fiori,4,1136
+Yes,A,Average,Street,French,Yes,Free,$31-60,Aldo Sohm Wine Bar,4,200
+Yes,A,Average,Street,French,NA,No,$11-30,Bouchon Bakery & Cafe,4,1313
+Yes,A,Average,Street,French,Yes,Free,$11-30,Maison Kayser,3.5,354
+Yes,B,Average,Street,French,Yes,Free,$31-60,Brasserie Ruhlmann,3.5,241
+Yes,A,Average,Street,French,Yes,No,$31-60,Le Marais,3,254
+Yes,A,Average,Street,French,NA,No,$11-30,Le Monde,3,422
+Yes,A,Average,Street,French,Yes,No,$11-30,RDV Rendezvous,4.5,126
+Yes,B,Average,Street,French,NA,Free,$11-30,Maison Harlem,3.5,420
+Yes,NA,Average,Street,French,Yes,Free,$11-30,Yatenga French Bistro & Bar,4,230
+Yes,NA,Average,Street,French,Yes,No,$31-60,Tastings Social Presents Mountain Bird,4.5,137
+Yes,NA,Average,Street,French,NA,No,Under $10,La Tropezienne Bakery,4.5,105
+Yes,A,Loud,Street,French,NA,No,$31-60,Buceo 95,4,397
+Yes,NA,Loud,Street,French,NA,Free,$11-30,Carmine?s Italian Restaurant - Upper West Side,4,1156
+Yes,A,Average,Street,French,Yes,No,$11-30,Améìie,4.5,2254
+Yes,A,Average,Street,French,NA,Free,$11-30,Cafe D?Alsace,4,1092
+Yes,A,Average,Street,French,NA,No,$11-30,Le Moulin a Cafe,4,304
+Yes,A,Average,Street,French,Yes,Free,$11-30,Côô Soleil,4.5,180
+Yes,A,Quiet,Street,French,NA,NA,$31-60,Quatorze Bis,4,52
+Yes,A,Average,Street,French,NA,No,$11-30,Cafe Triskell,4.5,403
+Yes,A,Average,Street,French,NA,No,$31-60,Orsay,3.5,239
+Yes,A,Average,Street,French,NA,No,$11-30,Table d?Hôôe,4,139
+Yes,A,Average,Street,French,Yes,No,$11-30,Le Fond,4.5,128
+Yes,A,Quiet,Street,French,Yes,No,Above $61,The Simone,5,82
+Yes,A,Average,Street,French,NA,No,$31-60,Cocotte,4,287
+Yes,A,Average,Street,French,Yes,Free,$31-60,Boucherie West Village,4.5,802
+Yes,A,Average,Street,French,NA,No,$31-60,Little Prince,3.5,288
+Yes,NA,Average,Street,French,Yes,No,$31-60,King,4,122
+Yes,B,Loud,Street,French,NA,No,$31-60,Felix,3,362
+Yes,A,Average,Street,French,Yes,No,$31-60,Le Gigot,4,189
+Yes,A,Average,Street,French,Yes,No,$31-60,Minetta Tavern,4,2037
+Yes,A,Average,Street,French,Yes,Free,$31-60,San Carlo Osteria Piemonte,4.5,155
+Yes,A,Average,Street,French,Yes,Free,$11-30,Joseph Leonard,4,618
+Yes,NA,Average,Street,French,NA,No,$31-60,Perry St,4,885
+Yes,A,Quiet,Street,French,Yes,Free,$11-30,Delice & Sarrasin,4.5,306
+Yes,NA,Average,Street,French,NA,No,$11-30,A.O.C.,3.5,555
+Yes,A,Average,Street,Italian,NA,Free,$11-30,Il Posto Accanto,4.5,178
+Yes,A,Average,Street,Italian,NA,No,$11-30,Giano Restaurant,4,518
+No,A,Average,Street,Italian,NA,No,$11-30,Supper,4,1188
+Yes,A,Average,Street,Italian,Yes,Free,$11-30,Fiaschetteria Pistoia,4.5,116
+Yes,A,Average,Street,Italian,NA,Free,Under $10,Gaia Italian CafÃ©,4.5,919
+Yes,A,Average,Street,Italian,Yes,No,$11-30,Risotteria Melotti NYC,4.5,269
+Yes,A,Average,Street,Italian,NA,No,$31-60,Lavagna,4,347
+Yes,A,Loud,Street,Italian,Yes,No,$11-30,Gnoccheria by Luzzoâ¿?s,4,226
+Yes,A,Average,Street,Italian,NA,No,$11-30,Taverna Di Bacco,4,238
+No,A,Average,Street,Italian,Yes,Free,$11-30,Spaghetti Incident,4,477
+Yes,A,Loud,Street,Italian,Yes,No,Under $10,San Marzano Pasta Fresca,4,894
+Yes,A,Average,Street,Italian,NA,No,$11-30,Gruppo,4,233
+Yes,A,Average,Street,Italian,Yes,Free,$11-30,Tramonti La Pizza,4.5,86
+No,B,Average,Street,Italian,Yes,No,$11-30,Lilâ¿? Frankieâ¿?s,4,947
+Yes,A,Average,Street,Italian,Yes,No,$11-30,Rubirosa,4,1745
+Yes,A,Average,Street,Mexico,NA,No,$11-30,Casa Enrique,4,991
+Yes,A,Average,Street,Mexico,Yes,No,$11-30,Jajaja,4.5,508
+No,A,Average,Street,Mexico,NA,No,$11-30,Tacos Cuautla Morelos,3.5,106
+Yes,A,Average,Street,Mexico,Yes,Free,$11-30,Toloache Thompson,4,407
+Yes,A,Average,Street,Mexico,NA,No,$11-30,El Sombrero,3.5,308
+Yes,A,NA,Street,Mexico,Yes,Free,NA,Taco Electrico,3.5,48
+Yes,A,Average,Street,Mexico,NA,Free,Under $10,El Diablito Taqueria,4,273
+Yes,B,Average,Street,Mexico,NA,Free,$11-30,Paquitoâ¿?s,3.5,236
+Yes,A,Loud,Street,Mexico,NA,No,$11-30,Yuca Bar,4,1654
+No,B,Quiet,Street,Mexico,No,No,Under $10,Downtown Bakery,4,233
+Yes,A,Average,Street,Mexico,Yes,Free,$11-30,La Loteria,4,272
+Yes,A,NA,Street,Mexico,Yes,Free,$11-30,La Contenta Oeste,4,109
+Yes,A,Average,Street,Mexico,NA,No,Under $10,Taqueria Diana,4,675
+Yes,A,Average,Street,Mexico,NA,Free,$31-60,Rosa Mexicano,3.5,1366
+Yes,A,Loud,Street,Mexico,Yes,No,$11-30,Tacombi - Bleecker Street,3.5,289
+Yes,A,Average,Street,Mexico,Yes,Free,$11-30,Hotel Tortuga,3.5,466
+Yes,A,Average,Street,Mexico,Yes,No,$11-30,Vamos Al Tequila,3.5,257
+Yes,NA,Average,Street,Mexico,NA,No,Under $10,Zaragoza Mexican Deli & Grocery,4,289
+Yes,A,Average,Street,Mexico,NA,Free,$11-30,Dos Caminos,3.5,1078
+Yes,A,Average,Street,Mexico,NA,Free,$11-30,Vamos! Tacos & Tequila,3.5,400
+Yes,A,Average,Street,Mexico,Yes,Free,$11-30,Villa Cemita,4,265
+Yes,A,Average,Street,Mexico,NA,No,$11-30,Gran Electrica,3.5,425
+Yes,A,Loud,Street,Mexico,Yes,Free,$11-30,Lenita,3.5,56
+Yes,NA,Average,Street,Mexico,Yes,Free,$11-30,Anejo Tribeca,3.5,265
+Yes,NA,Average,Street,Mexico,Yes,No,$31-60,Chefs Club,4,374
+Yes,A,Average,Street,Mexico,NA,No,$31-60,David Burke Kitchen,3.5,1121
+Yes,A,Average,Street,Mexico,No,Free,Under $10,Choza Taqueria,3,43
+Yes,NA,Loud,Street,Mexico,NA,No,Under $10,Taco Bar,3.5,67
+Yes,A,Average,Street,Mexico,Yes,Free,$31-60,Lure Fishbar - New York,4,1513
+No,NA,Average,Street,Mexico,NA,No,Under $10,Kimchi Taco,3,226
+Yes,A,Average,Street,Mexico,No,No,Under $10,Factory Tamal,4.5,59
+Yes,A,Average,Street,Mexico,Yes,No,$31-60,Dirt Candy,4,539
+Yes,NA,Average,Street,Mexico,NA,No,Under $10,Habana To-Go,4,260
+Yes,A,Average,Street,Mexico,Yes,No,$31-60,Gato,4,1006
+Yes,A,Average,Street,Mexico,NA,Free,$11-30,Cowgirl Seahorse,4,542
+Yes,NA,NA,Street,Mexico,No,Free,NA,Mr Taco,4.5,24
+Yes,A,Average,Street,Mexico,NA,No,$11-30,Papatzul,3.5,382
+Yes,A,Average,Street,Mexico,Yes,No,$31-60,Aquagrill,4,1275
+Yes,A,Average,Street,Mexico,NA,No,$31-60,Henryâ¿?s End,4,328
+Yes,NA,Average,Street,Mexico,Yes,No,$31-60,The Tuck Room,4,192
+Yes,A,Average,Street,Mexico,NA,No,$11-30,Oficina Latina,3,350
+Yes,A,Average,Street,Mexico,NA,No,$11-30,Dos Caminos,3.5,978
+Yes,B,Average,Street,Mexico,Yes,No,Above $61,ZZâ¿?s Clam Bar,4.5,92
+No,NA,Average,Street,Mexico,No,No,Under $10,Tacos Lupita,4.5,41
